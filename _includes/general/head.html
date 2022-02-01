@@ -1,0 +1,48 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ site.title | escape }} | {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!--[if lte IE 8]><script src="{{ "/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <style>
+  body { font-family: 'Montserrat', sans-serif; color: #757575}
+  a {color: #ae1065; text-decoration: none}
+  a:hover {color: #6fb74c; text-decoration: none;}
+  .bg-light { background-color: #fff!important;}
+  .text-dark {color: #757575!important}
+  .btn-primary {color: #fff; background-color: #ae1065; border-color: #ae1065;}
+  a.btn-primary:hover {color: #fff; background-color: #6fb74c; border-color: #6fb74c;}
+  header nav a.text-dark:hover  {color: rgb(174, 16, 101)}
+  header nav a {font-weight:600}
+  header nav a:hover {color: #ae1065}
+  footer {background-color: #f7f4f0; padding: 80px 0;}
+  .footer-links {font-size: 13px; padding-top: 45px; padding-bottom: 45px;}
+  .footer-links p {margin-bottom: 0}
+  a.footer-credits {color: #0d6efd}
+  a.footer-credits:hover {color: #6fb74c}
+  .bg-jumbotron h1, .bg-jumbotron p {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+  .bg-jumbotron h1 {font-size: 2.5rem;font-weight: 700}
+  .bg-jumbotron p {font-size: 13px; font-weight: 600}
+  .bg-jumbotron {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/panoramica.jpg"); background-size: cover; background-repeat: no-repeat;}
+  .card-header {color: #FFF; background-color: #AE1065;}
+  .un-colours {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/un-teach.webp"); background-size: cover; background-repeat: no-repeat;}
+  .teach {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/teach.webp"); background-size: cover; background-repeat: no-repeat;}
+  .core-buffer-zones {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/maps.webp"); background-size: cover; background-repeat: no-repeat;}
+  .paesaggio-percepito {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/le-colline-del-barbaresco.jpg"); background-size: cover; background-repeat: no-repeat;}
+  .paesaggio-costruito {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/cattedrali-sotterranecanelli.jpg"); background-size: cover; background-repeat: no-repeat;}
+  .paesaggio-coltivato {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/foto-aerea-monferrato.jpg"); background-size: cover; background-repeat: no-repeat;}
+  .paesaggio-vissuto {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/aratura.jpg"); background-size: cover; background-repeat: no-repeat;}
+  .paesaggio-percepito, .paesaggio-costruito, .paesaggio-coltivato, .paesaggio-vissuto {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+  .paesaggio-percepito, .paesaggio-costruito, .paesaggio-coltivato, .paesaggio-vissuto p {font-size: 13px}
+  .flex-equal > * {flex: 1;}
+  @media (min-width: 768px) {.flex-md-equal > * {flex: 1;}}
+  </style>
+</head>

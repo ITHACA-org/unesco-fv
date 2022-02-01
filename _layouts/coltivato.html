@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include coltivato/mapboxhead.html %}
+
+  <body>
+
+      {% include coltivato/map_style.html %}
+
+      {% include coltivato/map_menu.html %}
+
+      {{ content }}
+
+      {% include coltivato/map_load.html %}
+
+      {% include coltivato/layer_load.html %}
+
+      {% include coltivato/mapboxscripts.html %}
+
+  </body>
+
+</html>

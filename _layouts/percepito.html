@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include percepito/mapboxhead.html %}
+
+  <body>
+
+      {% include percepito/map_style.html %}
+
+      {% include percepito/map_menu.html %}
+
+      {{ content }}
+
+      {% include percepito/map_load.html %}
+
+      {% include percepito/layer_load.html %}
+
+      {% include percepito/mapboxscripts.html %}
+
+  </body>
+
+</html>

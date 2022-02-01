@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include mapboxhead.html %}
+
+  <body>
+
+      {% include map_style.html %}
+
+      {% include map_menu.html %}
+
+      {{ content }}
+
+      {% include map_load.html %}
+
+      {% include layer_load.html %}
+
+      {% include mapboxscripts.html %}
+
+  </body>
+
+</html>
