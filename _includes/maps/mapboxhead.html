@@ -3,8 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{% if page.title %}{{ site.title | escape }} | {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!--[if lte IE 8]><script src="{{ "/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,55 +12,5 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
-
-  <style>
-  body { font-family: 'Open Sans', sans-serif; color: #757575}
-  h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif;}
-
-  #map { position: fixed; top: 0; bottom: 0; width: 61.6%; }
-  .map-menu {
-    position: fixed;
-    background: #efefef;
-    padding: 10px;
-  }
-
-  #fit {
-    display: block;
-    position: relative;
-    margin: 0px;
-    width: 100%;
-    padding: 0px;
-    border: none;
-    border-radius: 3px;
-    font-size: 12px;
-    text-align: center;
-    color: #fff;
-    background: #1a3639;
-    opacity: 0.9;
-  }
-  .legend {
-    background-color: #fff;
-    border-radius: 3px;
-    bottom: 40px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-    font: 12px/20px;
-    padding: 10px;
-    position: absolute;
-    right: 10px;
-    z-index: 1;
-  }
-
-  .legend div span {
-    border-radius: 50%;
-    display: inline-block;
-    height: 10px;
-    margin-right: 5px;
-    width: 10px;
-  }
-  .punti-interesse {
-    padding: 25px 0px;
-    line-height: 25px;
-    opacity: 1;
-  }
-  </style>
+  <link rel="stylesheet" href="/assets/css/head_map.css">
 </head>
