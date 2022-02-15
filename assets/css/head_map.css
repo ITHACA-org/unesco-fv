@@ -1,23 +1,26 @@
-body { font-family: 'Open Sans', sans-serif; color: #757575}
+body { font-family: 'Open Sans', sans-serif; color: #747474}
 .bg-light {background-color: #fff!important;}
-h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif; color:#333333;}
 #map { position: fixed; top: 0; bottom: 0; width: 61.6%; }
 .map_large {width: 100%;}
-.map-menu {position: fixed; background: #efefef; padding: 10px;}
+.map-menu {position: fixed; background: #ffffffE6; padding: 10px;}
 #fit {display: block; position: relative; margin: 0px; width: 100%; padding: 0px; border: none; border-radius: 3px; font-size: 12px; text-align: center; color: #fff; background: #1a3639; opacity: 0.9;}
-.legend {background-color: #fff; border-radius: 3px; bottom: 40px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); font: 12px/20px; padding: 10px; position: absolute; right: 10px; z-index: 1;}
+#sun {display: block; position: relative; margin-top: 5px; padding: 0px 4px 0px 4px; border: none; border-radius: 3px; font-size: 12px; text-align: center; color: #fff; background: #1a3639; opacity: 0.9;}
+#sun input { position: relative; padding: 0px 4px 0px 4px; border: none; border-radius: 0px; font-size: 12px; text-align: center; color: #fff; background: #1a3639; opacity: 0.9;}
+#fit:hover, #sun input:hover {background:#3D7D85;}
+.legend {background-color: #ffffffE6; border-radius: 3px; bottom: 1vh; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); font: 12px/20px; padding: 1%; position: absolute; right: 10px; z-index: 1;}
 .legend div span {border-radius: 50%; display: inline-block; height: 10px; margin-right: 5px; width: 10px;}
 .legend h4 {margin: 0 0 10px;}
 .punti-interesse {padding: 25px 0px; line-height: 25px; opacity: 1;}
 #features {width: 38vw; margin-left: 62vw; height: 100%; overflow-y: scroll; background-color: #ffffff; transition: 1s ease; position: relative;}
 .sidebar_hide {width: 0%;}
-section {padding: 7vh 2vw; line-height: 25px; border-bottom: 1px solid #ddd; opacity: 0.25; font-size: 13px;}
+section {padding: 7vh 2vw; line-height: 25px; border-bottom: 1px solid #ddd; opacity: 0.25; font-size: 15px;}
 section.active {opacity: 1;}
 section:last-child {border-bottom: none; margin-bottom: 10vh;}
 .sidebar {margin-top: 10px; margin-bottom: 10px;}
 .mapboxgl-popup  {max-width: 400px; font-weight: bold;}
 @media (max-width: 768px) {
-  #features {width: 100vw; margin: 0 auto; background-color:transparent; color: #000;}
+  #features {width: 100vw; margin: 0 auto; background-color:transparent; color: #747474;}
   section {padding: 5vw 5vw 95vh; border-bottom: 0px ;}
   .mobile-transparent {padding: 5vw 5vw 0vh; line-height: 25px; border-bottom: 1px solid #ddd; opacity: 1; font-size: 15px; background-color:rgba(255,255,255,0.95);}
   .step {padding-bottom: 1vh; offset-position: bottom 10px top 10 px;}
