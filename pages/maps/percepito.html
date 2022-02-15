@@ -3,6 +3,24 @@ layout: percepito
 title: Il paesaggio percepito
 permalink: /maps/percepito/
 ---
+<div id="map" class="map">
+  <div id="zones-legend" class="legend d-none d-md-block">
+    <h6>Componenti UNESCO in mappa</h6>
+    <div><img src='/../assets/markers/musei-marker_legend.png'></span>  Musei della tradizione vitivinicola</div>
+    <div><span style="background-color: #f768a1"></span>Core zone</div>
+    <div><span style="background-color: #feebe2"></span>Buffer zone</div>
+  </div>
+</div>
+<div class="map-menu d-none d-md-block">
+  <div id="menu">
+    <h6 style="text-align:center;"><strong>Il paesaggio percepito</strong></h6>
+    <input id="ckqc3h3i600gu18pgwzh0qpjt" type="radio" name="rtoggle" value="satellite" checked="checked">
+    <label for="ckqc3h3i600gu18pgwzh0qpjt">Immagine satellitare</label>
+    <input id="ckrc5h3ak03s518scu3lsusbn" type="radio" name="rtoggle" value="streets">
+    <label for="ckrc5h3ak03s518scu3lsusbn">Carta topografica</label>
+  </div>
+  <button id="fit">Estensione completa sito UNESCO</button>
+</div>
 <!--<nav id="layerswitch"></nav>-->
 <div id="features" class="features">
   <div class="d-flex flex-md-row justify-content-center mt-2">
@@ -136,3 +154,6 @@ permalink: /maps/percepito/
     </div>
   </section>
 </div>
+<script type="text/javascript" src="../../assets/js/percepito/map_load.js" defer></script>
+<script type="text/javascript" src="../../assets/js/percepito/layer_load.js" defer></script>
+<script type="text/javascript" src="../../assets/js/percepito/mapboxscripts.js" defer></script>

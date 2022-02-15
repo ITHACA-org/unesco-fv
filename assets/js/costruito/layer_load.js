@@ -1,4 +1,3 @@
-<script>
 //Load of GeoJSON data
 var geojson;
 function addSource() {
@@ -6,9 +5,9 @@ function addSource() {
 		'type': 'geojson',
 		'data': '/../assets/json/areas.geojson'
 	});
-	map.addSource('ciabot', {
+	map.addSource('infernot', {
 		'type': 'geojson',
-		'data': '/../assets/json/ciabot.geojson'
+		'data': '/../assets/json/infernot.geojson'
 	});
 	// Mapbox default DEM source
 	map.addSource('mapbox-dem', {
@@ -57,18 +56,16 @@ function addLayer() {
 			'line-width': 1
 		}
 	});
-
-map.addLayer({
-	'id': 'ciabot',
-	'type': 'symbol',
-	'layout': {
-		// Make the layer visible by default.
-		'icon-image': 'ciabot-marker',
-		'visibility': 'visible'
-},
-'source': 'ciabot',
-});
-
+	map.addLayer({
+		'id': 'infernot',
+		'type': 'symbol',
+		'layout': {
+			// Make the layer visible by default.
+			'icon-image': 'infernot-marker',
+			'visibility': 'visible'
+	},
+	'source': 'infernot',
+	});
 map.addLayer({
 	'id': 'sky',
 	'type': 'sky',
@@ -89,10 +86,10 @@ function addMarkers () {
 	map.on('load', function () {
 		// Add an image to use as a custom marker
 		map.loadImage(
-			'/../assets/markers/ciabot-marker.png',
+			'/../assets/markers/infernot-marker.png',
 			function (error, image) {
 				if (error) throw error;
-				map.addImage('ciabot-marker', image);
+				map.addImage('infernot-marker', image);
 			}
 		);
 	});
@@ -111,4 +108,3 @@ function addMarkers () {
 // Fallback for sprites / markers not loading when changing styles
 
 // END of Markers load and render
-</script>

@@ -1,4 +1,3 @@
-<script>
 //Load of GeoJSON data
 var geojson;
 function addSource() {
@@ -111,4 +110,3 @@ function addMarkers () {
 // Fallback for sprites / markers not loading when changing styles
 
 // END of Markers load and render
-</script>
