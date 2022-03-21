@@ -8,7 +8,7 @@ a:hover {color: #6fb74c; text-decoration: none;}
 .text-dark {color: #757575!important}
 .btn-primary {color: #fff; background-color: #ae1065; border-color: #ae1065;}
 a.btn-primary:hover {color: #fff; background-color: #6fb74c; border-color: #6fb74c;}
-.main-text {padding-left: 10vw; padding-right: 10vw}
+@media screen and (min-width: 768px) {.main-text {padding-left: 10vw; padding-right: 10vw}}
 header nav a.text-dark:hover  {color: rgb(174, 16, 101)}
 header nav a {font-weight:600}
 header nav a:hover {color: #ae1065}
