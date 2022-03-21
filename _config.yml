@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UNESCO LRM
+title: Di Difesa in Difesa - Opere di Difesa Veneziane Del XVI e XVII sec.
 email: guido.dicarlo@ithacaweb.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Strumenti a supporto della didattica. I paesaggi vitivinicoli di Langhe-Roero e Monferrato -> contenuti multimediali ed interattivi per gli studenti delle scuole medie.
+  Strumenti a supporto della didattica. Opere di Difesa Veneziane Del XVI e XVII sec. Stato di Terra-Stato di Mare Occidentale (Bene transnazionale, per l'Italia Peschiera, Bergamo, Palmanova) -> contenuti multimediali ed interattivi per gli studenti delle scuole medie.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ITHACA-org
