@@ -1,4 +1,3 @@
-<script>
 // Basemap switch
 map.on('style.load', function() {
 	addMarkers();
@@ -17,7 +16,7 @@ for (var i = 0; i < inputs.length; i++) {
 
 	// START of popup on click for pointal features
 	map.on('load', function () {
-		map.on('click', 'ciabot', function (e) {
+		map.on('click', 'infernot', function (e) {
 			var coordinates = e.features[0].geometry.coordinates.slice();
 			var description = e.features[0].properties.Denominaz;
 
@@ -35,12 +34,12 @@ for (var i = 0; i < inputs.length; i++) {
 		});
 
 		// Change the cursor to a pointer when the mouse is over the places layer.
-		map.on('mouseenter', 'enoteche_regionali', function () {
+		map.on('mouseenter', 'infernot', function () {
 			map.getCanvas().style.cursor = 'pointer';
 		});
 
 		// Change it back to a pointer when it leaves.
-		map.on('mouseleave', 'enoteche_regionali', function () {
+		map.on('mouseleave', 'infernot', function () {
 			map.getCanvas().style.cursor = '';
 		});
 	});
@@ -54,4 +53,3 @@ for (var i = 0; i < inputs.length; i++) {
 		]);
 	});
 	// END of Return to map extent
-</script>

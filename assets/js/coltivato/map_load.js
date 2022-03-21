@@ -1,4 +1,3 @@
-<script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJja3B6aXJzYm0xcWZyMndwOWI2b295cnZxIn0.jCqUuQI8LcYDxVSJpJfM-Q';
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
@@ -80,4 +79,3 @@ function isElementOnScreen(id) {
 	return bounds.top < window.innerHeight && bounds.bottom > 0;
 }
 // End of chapter-scrolling
-</script>

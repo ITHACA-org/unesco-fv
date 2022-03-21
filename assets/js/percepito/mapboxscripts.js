@@ -1,6 +1,6 @@
-<script>
 // Basemap switch
 map.on('style.load', function() {
+	addMarkers();
 	addSource();
 	addLayer();
 });
@@ -16,9 +16,9 @@ for (var i = 0; i < inputs.length; i++) {
 
 	// START of popup on click for pointal features
 	map.on('load', function () {
-		map.on('click', 'paesaggi_aree', function (e) {
+		map.on('click', 'musei', function (e) {
 			var coordinates = e.features[0].geometry.coordinates.slice();
-			var description = e.features[0].properties.NOME;
+			var description = e.features[0].properties.Denominaz;
 
 			// Ensure that if the map is zoomed out such that multiple
 			// copies of the feature are visible, the popup appears
@@ -34,12 +34,12 @@ for (var i = 0; i < inputs.length; i++) {
 		});
 
 		// Change the cursor to a pointer when the mouse is over the places layer.
-		map.on('mouseenter', 'paesaggi_aree', function () {
+		map.on('mouseenter', 'musei', function () {
 			map.getCanvas().style.cursor = 'pointer';
 		});
 
 		// Change it back to a pointer when it leaves.
-		map.on('mouseleave', 'paesaggi_aree', function () {
+		map.on('mouseleave', 'musei', function () {
 			map.getCanvas().style.cursor = '';
 		});
 	});
@@ -53,4 +53,3 @@ for (var i = 0; i < inputs.length; i++) {
 		]);
 	});
 	// END of Return to map extent
-</script>

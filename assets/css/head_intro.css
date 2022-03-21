@@ -1,0 +1,25 @@
+body { font-family: 'Open Sans', sans-serif; color: #757575}
+header {text-transform: uppercase;}
+header > a:hover {border-top: 3px solid #757575;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif;}
+a {color: #ae1065; text-decoration: none}
+a:hover {color: #6fb74c; text-decoration: none;}
+.bg-light { background-color: #fff!important;}
+.text-dark {color: #757575!important}
+.btn-primary {color: #fff; background-color: #ae1065; border-color: #ae1065;}
+a.btn-primary:hover {color: #fff; background-color: #6fb74c; border-color: #6fb74c;}
+@media screen and (min-width: 768px) {.main-text {padding-left: 10vw; padding-right: 10vw}}
+header nav a.text-dark:hover  {color: rgb(174, 16, 101)}
+header nav a {font-weight:600}
+header nav a:hover {color: #ae1065}
+footer {background-color: #f7f4f0; padding: 80px 0;}
+.footer-links {font-size: 13px; padding-top: 45px; padding-bottom: 45px;}
+.footer-links p {margin-bottom: 0}
+a.footer-credits {color: #0d6efd}
+a.footer-credits:hover {color: #6fb74c}
+.bg-jumbotron h1, .bg-jumbotron p {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+.bg-jumbotron h1 {font-size: 2.5rem;font-weight: 700}
+.bg-jumbotron p {font-size: 13px; font-weight: 600}
+.card-header {color: #FFF; background-color: #AE1065;}
+.flex-equal > * {flex: 1;}
+@media (min-width: 768px) {.flex-md-equal > * {flex: 1;}}
