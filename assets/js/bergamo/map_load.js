@@ -1,46 +1,60 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJja3B6aXJzYm0xcWZyMndwOWI2b295cnZxIn0.jCqUuQI8LcYDxVSJpJfM-Q';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJjbDFhZmxraGMwd2c2M2xwbTRkeGh3dTE4In0.d8dPbPli4djvVcORKflS4A';
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
-	style: 'mapbox://styles/guercusguo/ckqc3h3i600gu18pgwzh0qpjt', // style URL
-	center: [7.943968,44.611059], // starting position
-	zoom: 12 // starting zoom
+	style: 'mapbox://styles/guercusguo/cl1afebdi004o14phiw01d9uj', // style URL
+	center: [9.67,45.695], // starting position
+	zoom: 11 // starting zoom
 	// pitch: 85,
 	// bearing: 80,
 });
 // chapters on map
 var chapters = {
-	'il-paesaggio-coltivato': {
+	'bergamo': {
 		bearing: 0,
-		center: [7.943968, 44.611059],
-		zoom: 13,
+		center: [9.67, 45.695],
+		zoom: 11,
 		speed: 0.3,
 		pitch: 20
 	},
-	'ciabot': {
-		center: [7.937603, 44.640647],
+	'porta-santagostino': {
+		center: [9.672277, 45.704041],
 		bearing: 0,
 		speed: 0.3,
 		zoom: 16,
 		pitch: 0
 	},
-	'vigna-cannubi-barolo': {
+	'porta-san-giacomo': {
 		bearing: 0,
-		center: [7.949250, 44.620095],
+		center: [9.662943, 45.701316],
 		zoom: 16,
 		speed: 0.3,
 		pitch: 40
 	},
-	'vigneti': {
+	'cannoniera-sangiovanni': {
 		bearing: 0,
-		center: [7.993373, 44.652052],
-		zoom: 15,
+		center: [9.657776, 45.704050],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'coltivazione-a-girapoggio': {
+	'palazzo-podesta': {
 		bearing: 0,
-		center: [8.080785, 44.722119],
-		zoom: 16,
+		center: [9.662627, 45.703990],
+		zoom: 17,
+		speed: 0.3,
+		pitch: 40
+	},
+	'porta-santalessandro': {
+		bearing: 0,
+		center: [9.657841, 45.706489],
+		zoom: 17,
+		speed: 0.3,
+		pitch: 40
+	},
+	'porta-sanlorenzo': {
+		bearing: 0,
+		center: [9.662822, 45.706621],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	}
@@ -48,7 +62,6 @@ var chapters = {
 
 var layerList = document.getElementById('menu');
 var inputs = layerList.getElementsByTagName('input');
-var fallbackImageUrl = '/../assets/markers/ciabot-marker.png';
 // Chapter-scrolling: On every scroll event, check which element is on screen
 window.onscroll = function () {
 	var chapterNames = Object.keys(chapters);
@@ -61,7 +74,7 @@ window.onscroll = function () {
 	}
 };
 
-var activeChapterName = 'il-paesaggio-coltivato';
+var activeChapterName = 'bergamo';
 function setActiveChapter(chapterName) {
 	if (chapterName === activeChapterName) return;
 

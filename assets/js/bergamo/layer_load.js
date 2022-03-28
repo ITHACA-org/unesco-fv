@@ -1,13 +1,17 @@
 //Load of GeoJSON data
 var geojson;
 function addSource() {
-	map.addSource('vitivinicoli_aree', {
+	map.addSource('bg_zones', {
 		'type': 'geojson',
-		'data': '/../assets/json/areas.geojson'
+		'data': '/../assets/json/BG_core_buffer.geojson'
 	});
-	map.addSource('ciabot', {
+	map.addSource('bg_mura', {
 		'type': 'geojson',
-		'data': '/../assets/json/ciabot.geojson'
+		'data': '/../assets/json/BG_mura.geojson'
+	});
+	map.addSource('bg_assi', {
+		'type': 'geojson',
+		'data': '/../assets/json/BG_assi.geojson'
 	});
 	// Mapbox default DEM source
 	map.addSource('mapbox-dem', {
@@ -23,7 +27,7 @@ function addLayer() {
 	map.addLayer({
 		'id': 'fill_area',
 		'type': 'fill',
-		'source': 'vitivinicoli_aree', // reference the data source
+		'source': 'bg_zones', // reference the data source
 		'layout': {
 			// Make the layer visible by default.
 			'visibility': 'visible'
@@ -31,42 +35,53 @@ function addLayer() {
 		'paint': {
 			'fill-color': [
 				'match',
-				['get', 'TIPO'],
-				'Buffer zone',
-				'#feebe2',
-				'Core zone',
-				'#f768a1',
+				['get', 'zona'],
+				'buffer',
+				'#5ab4ac',
+				'core',
+				'#d8b365',
 				'#ccc'
 			],
 			//'fill-color': '#0080ff', // blue color fill
-			'fill-opacity': 0.3
+			'fill-opacity': 0.2
 		}
 	});
 	// Add a black outline around the polygon.
 	map.addLayer({
 		'id': 'outline_area',
 		'type': 'line',
-		'source': 'vitivinicoli_aree',
+		'source': 'bg_zones',
 		'layout': {
 			// Make the layer visible by default.
 			'visibility': 'visible'
 		},
 		'paint': {
-			'line-color': '#000',
-			'line-width': 1
+			'line-color': [
+				'match',
+				['get', 'zona'],
+				'buffer',
+				'#5ab4ac',
+				'core',
+				'#d8b365',
+				'#ccc'
+			],
+			'line-width': 2
 		}
 	});
 
-map.addLayer({
-	'id': 'ciabot',
-	'type': 'symbol',
-	'layout': {
-		// Make the layer visible by default.
-		'icon-image': 'ciabot-marker',
-		'visibility': 'visible'
-},
-'source': 'ciabot',
-});
+	map.addLayer({
+		'id': 'assi',
+		'type': 'line',
+		'source': 'bg_assi',
+		'layout': {
+			// Make the layer visible by default.
+			'visibility': 'visible'
+		},
+		'paint': {
+			'line-color': '#fc8d62',
+			'line-width': 4
+		}
+	});
 
 map.addLayer({
 	'id': 'sky',

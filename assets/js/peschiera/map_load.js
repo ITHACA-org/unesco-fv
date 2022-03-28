@@ -1,7 +1,7 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJja3B6aXJzYm0xcWZyMndwOWI2b295cnZxIn0.jCqUuQI8LcYDxVSJpJfM-Q';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJjbDFhZmxraGMwd2c2M2xwbTRkeGh3dTE4In0.d8dPbPli4djvVcORKflS4A';
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
-	style: 'mapbox://styles/guercusguo/ckqc3h3i600gu18pgwzh0qpjt', // style URL
+	style: 'mapbox://styles/guercusguo/cl1afebdi004o14phiw01d9uj', // style URL
 	center: [8.001214,44.609173], // starting position
 	zoom: 12 // starting zoom
 	// pitch: 85,
