@@ -68,7 +68,19 @@ function addLayer() {
 			'line-width': 2
 		}
 	});
-
+	map.addLayer({
+		'id': 'mura',
+		'type': 'line',
+		'source': 'bg_mura',
+		'layout': {
+			// Make the layer visible by default.
+			'visibility': 'visible'
+		},
+		'paint': {
+			'line-color': '#f5f5f5',
+			'line-width': 1
+		}
+	});
 	map.addLayer({
 		'id': 'assi',
 		'type': 'line',

@@ -1,6 +1,5 @@
 // Basemap switch
 map.on('style.load', function() {
-	addMarkers();
 	addSource();
 	addLayer();
 });
@@ -48,8 +47,8 @@ for (var i = 0; i < inputs.length; i++) {
 	// Return to map extent
 	document.getElementById('fit').addEventListener('click', function () {
 		map.fitBounds([
-			[7.798595, 44.523151], // southwestern corner of the bounds
-			[8.571995, 45.121761] // northeastern corner of the bounds
+			[10.653000,45.427677], // southwestern corner of the bounds
+			[10.718138,45.457762] // northeastern corner of the bounds
 		]);
 	});
 	// END of Return to map extent
