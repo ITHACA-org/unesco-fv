@@ -1,13 +1,17 @@
 //Load of GeoJSON data
 var geojson;
 function addSource() {
-	map.addSource('vitivinicoli_aree', {
+	map.addSource('pn_zones', {
 		'type': 'geojson',
-		'data': '/../assets/json/areas.geojson'
+		'data': '/../assets/json/PN_core_buffer.geojson'
 	});
-	map.addSource('infernot', {
+	map.addSource('pn_mura', {
 		'type': 'geojson',
-		'data': '/../assets/json/infernot.geojson'
+		'data': '/../assets/json/PN_mura.geojson'
+	});
+	map.addSource('pn_stendardo', {
+		'type': 'geojson',
+		'data': '/../assets/json/PN_stendardo.geojson'
 	});
 	// Mapbox default DEM source
 	map.addSource('mapbox-dem', {
@@ -23,7 +27,7 @@ function addLayer() {
 	map.addLayer({
 		'id': 'fill_area',
 		'type': 'fill',
-		'source': 'vitivinicoli_aree', // reference the data source
+		'source': 'pn_zones', // reference the data source
 		'layout': {
 			// Make the layer visible by default.
 			'visibility': 'visible'
@@ -31,41 +35,61 @@ function addLayer() {
 		'paint': {
 			'fill-color': [
 				'match',
-				['get', 'TIPO'],
-				'Buffer zone',
-				'#feebe2',
-				'Core zone',
-				'#f768a1',
+				['get', 'zona'],
+				'buffer',
+				'#5ab4ac',
+				'core',
+				'#d8b365',
 				'#ccc'
 			],
 			//'fill-color': '#0080ff', // blue color fill
-			'fill-opacity': 0.3
+			'fill-opacity': 0.2
 		}
 	});
 	// Add a black outline around the polygon.
 	map.addLayer({
 		'id': 'outline_area',
 		'type': 'line',
-		'source': 'vitivinicoli_aree',
+		'source': 'pn_zones',
 		'layout': {
 			// Make the layer visible by default.
 			'visibility': 'visible'
 		},
 		'paint': {
-			'line-color': '#000',
-			'line-width': 1
+			'line-color': [
+				'match',
+				['get', 'zona'],
+				'buffer',
+				'#5ab4ac',
+				'core',
+				'#d8b365',
+				'#ccc'
+			],
+			'line-width': 2
 		}
 	});
 	map.addLayer({
-		'id': 'infernot',
-		'type': 'symbol',
+		'id': 'mura',
+		'type': 'line',
+		'source': 'pn_mura',
 		'layout': {
 			// Make the layer visible by default.
-			'icon-image': 'infernot-marker',
 			'visibility': 'visible'
-	},
-	'source': 'infernot',
+		},
+		'paint': {
+			'line-color': '#f5f5f5',
+			'line-width': 2
+		}
 	});
+	map.addLayer({
+		'id': 'stendardo',
+		'type': 'symbol',
+		'source': 'pn_stendardo',
+		'layout': {
+			'icon-image': 'stendardo',
+			'visibility':'visible'
+		}
+	})
 	map.addLayer({
 		'id': 'sky',
 		'type': 'sky',
@@ -89,9 +113,9 @@ function addLayer() {
 			'sky-atmosphere-sun-intensity': 5
 		}
 	});
-// 3D properties
-map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.2 });
-// END of 3D properties
+	// 3D properties
+	map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.2 });
+	// END of 3D properties
 }
 //END of addLayer
 
@@ -100,10 +124,10 @@ function addMarkers () {
 	map.on('load', function () {
 		// Add an image to use as a custom marker
 		map.loadImage(
-			'/../assets/markers/infernot-marker.png',
+			'/../assets/markers/stendardo.png',
 			function (error, image) {
 				if (error) throw error;
-				map.addImage('infernot-marker', image);
+				map.addImage('stendardo', image);
 			}
 		);
 	});
