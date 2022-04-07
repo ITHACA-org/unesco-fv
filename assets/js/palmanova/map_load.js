@@ -2,209 +2,81 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJjbDFhZmxraGMwd2c2M2xwb
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
 	style: 'mapbox://styles/guercusguo/cl1afebdi004o14phiw01d9uj', // style URL
-	center: [8.39015,45.05038], // starting position
+	center: [13.316944,45.9], // starting position
 	zoom: 12 // starting zoom
 	// pitch: 85,
 	// bearing: 80,
 });
 // chapters on map
 var chapters = {
-	'il-paesaggio-costruito': {
+	'palmanova': {
 		bearing: 0,
-		center: [7.943968, 44.611059],
-		zoom: 12,
+		center: [13.316944, 45.9],
+		zoom: 14,
+		speed: 0.3,
+		pitch: 0
+	},
+	'porta-cividale': {
+		center: [13.315168, 45.907329],
+		bearing: 0,
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'castello-dei-marchesi-falletti': {
-
-		center: [7.943968, 44.611059],
+	'porta-udine': {
 		bearing: 0,
-		zoom: 15,
+		center: [13.304792, 45.907853],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'azienda-marchesi-di-barolo': {
-
+	'acquedotto-veneziano-e-cascatella': {
 		bearing: 0,
-		center: [7.940581, 44.611374],
-		zoom: 15,
+		center: [13.304350, 45.908229],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'castello-di-grinzane-cavour': {
-
+	'porta-aquilea': {
 		bearing: 0,
-		center: [7.994750, 44.653156],
-		zoom: 15,
+		center: [13.309667, 45.901473],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'crutin': {
-
+	'piazza-grande': {
 		bearing: 0,
-		center: [8.227214, 44.739353],
-		zoom: 15,
+		center: [13.309893, 45.905404],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'crotin-del-teatro-fig-121b': {
-
+	'stendardo': {
 		bearing: 0,
-		center: [8.227214, 44.739353],
-		zoom: 15,
+		center: [13.309893, 45.905404],
+		zoom: 19,
 		speed: 0.3,
 		pitch: 40
 	},
-	'infernot': {
-
+	'palazzo-del-provveditore-generale': {
 		bearing: 0,
-		center: [8.432688, 45.018543],
-		zoom: 15,
+		center: [13.311293, 45.902797],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
 	},
-	'infernot-in-via-montecauto': {
-
+	'loggia-della-gran-guardia': {
 		bearing: 0,
-		center: [8.428067, 45.019332],
-		zoom: 15,
+		center: [13.308978, 45.904984],
+		zoom: 17,
 		speed: 0.3,
 		pitch: 40
-	},
-	'infernot-via-umberto': {
-
-		bearing: 0,
-		center: [8.387873, 45.032471],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'infernot-in-frazione-moleto-14': {
-
-		bearing: 0,
-		center: [8.370377, 45.051644],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'infernot-chiesa-madonna-delle-grazie': {
-
-		bearing: 0,
-		center: [8.390717, 45.085242],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'azienda-vitivinicola-fontanafredda': {
-
-		bearing: 0,
-		center: [7.986855, 44.638491],
-		zoom: 12,
-		speed: 0.3,
-		pitch: 40
-	},
-	'azienda-agricola-teobaldo-cappellano-fig-57': {
-
-		bearing: 0,
-		center: [7.983701, 44.636546],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'museo-ratti-dei-vini-di-alba': {
-
-		bearing: 0,
-		center: [7.954487, 44.636819],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantina-renato-ratti-fig-59': {
-
-		bearing: 0,
-		center: [7.954615, 44.636061],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'enoteca-regionale-del-barbaresco': {
-
-		bearing: -170,
-		center: [8.080878, 44.725176],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 85
-	},
-	'azienda-gaja-fig-83': {
-
-		bearing: 0,
-		center: [8.00689, 44.726001],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantina-del-glicine-fig-88': {
-
-		bearing: 0,
-		center: [8.103748, 44.720217],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'museo-delle-contadinerie-e-delle-stampe-antiche-bersano': {
-
-		bearing: 0,
-		center: [8.360526, 44.773005],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'tenuta-aluffi-fig-102': {
-
-		bearing: 0,
-		center: [8.275145, 44.783591],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantina-sociale-di-vinchio-e-vaglio-serra': {
-
-		bearing: 0,
-		center: [8.329741, 44.806592],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantine-gancia': {
-
-		bearing: 0,
-		center: [8.287880, 44.715232],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantine-bosca': {
-
-		bearing: 0,
-		center: [8.285196, 44.720387],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
-	'cantine-contratto': {
-
-		bearing: 0,
-		center: [8.284230, 44.721722],
-		zoom: 15,
-		speed: 0.3,
-		pitch: 40
-	},
+	}
 };
 
 var layerList = document.getElementById('menu');
 var inputs = layerList.getElementsByTagName('input');
-var fallbackImageUrl = '/../assets/markers/infernot-marker.png';
+var fallbackImageUrl = '/../assets/markers/stendardo.svg';
 // Chapter-scrolling: On every scroll event, check which element is on screen
 window.onscroll = function () {
 	var chapterNames = Object.keys(chapters);
