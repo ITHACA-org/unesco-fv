@@ -65,7 +65,15 @@ function addLayer() {
 				'#d8b365',
 				'#ccc'
 			],
-			'line-width': 2
+			'line-width': [
+				'match',
+				['get', 'zona'],
+				'buffer',
+				2,
+				'core',
+				6,
+				2
+			]
 		}
 	});
 	map.addLayer({
@@ -78,7 +86,8 @@ function addLayer() {
 		},
 		'paint': {
 			'line-color': '#f5f5f5',
-			'line-width': 2
+			'line-width': 2,
+			'line-dasharray': [2, 1]
 		}
 	});
 	map.addLayer({
