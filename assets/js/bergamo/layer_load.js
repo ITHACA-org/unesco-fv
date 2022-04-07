@@ -65,7 +65,15 @@ function addLayer() {
 				'#d8b365',
 				'#ccc'
 			],
-			'line-width': 2
+			'line-width': [
+				'match',
+				['get', 'zona'],
+				'buffer',
+				2,
+				'core',
+				4,
+				2
+			]
 		}
 	});
 	map.addLayer({
