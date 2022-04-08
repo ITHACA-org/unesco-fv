@@ -71,6 +71,13 @@ var chapters = {
 		zoom: 17,
 		speed: 0.3,
 		pitch: 40
+	},
+	'finale-palmanova': {
+		bearing: 0,
+		center: [13.316944,45.9],
+		zoom: 12,
+		speed: 0.3,
+		pitch: 0
 	}
 };
 
@@ -89,7 +96,7 @@ window.onscroll = function () {
 	}
 };
 
-var activeChapterName = 'il-paesaggio-costruito';
+var activeChapterName = 'palmanova';
 function setActiveChapter(chapterName) {
 	if (chapterName === activeChapterName) return;
 
