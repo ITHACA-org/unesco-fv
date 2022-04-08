@@ -1,6 +1,5 @@
 // Basemap switch
 map.on('style.load', function() {
-	addMarkers();
 	addSource();
 	addLayer();
 });
