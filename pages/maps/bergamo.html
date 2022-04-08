@@ -3,92 +3,94 @@ layout: bergamo
 title: Bergamo - Opere di Difesa Veneziane
 permalink: /maps/bergamo/
 ---
-<div id="map" class="map">
-  <div id="zones-legend" class="legend d-none d-md-block">
-    <h6>Componenti UNESCO in mappa</h6>
-    <div><span style="background-color: #d8b365"></span>Core zone</div>
-    <div><span style="background-color: #5ab4ac"></span>Buffer zone</div>
-    <div><span style="background-color: #fc8d62"></span>Assi delle porte</div>
+<div class="container-fluid">
+  <div id="map" class="map">
+    <div id="zones-legend" class="legend d-none d-md-block">
+      <h6>Componenti UNESCO in mappa</h6>
+      <div><span style="background-color: #d8b365"></span>Core zone</div>
+      <div><span style="background-color: #5ab4ac"></span>Buffer zone</div>
+      <div><span style="background-color: #fc8d62"></span>Assi delle porte</div>
+    </div>
   </div>
-</div>
-<div class="map-menu d-none d-md-block">
-  <div id="menu">
-    <h6 style="text-align:center;"><strong>Bergamo</strong></h6>
-    <input id="cl1afebdi004o14phiw01d9uj" type="radio" name="rtoggle" value="satellite" checked="checked">
-    <label for="cl1afebdi004o14phiw01d9uj">Immagine satellitare</label>
-    <input id="cl1afg1hs003y14o0cvmefqcc" type="radio" name="rtoggle" value="streets">
-    <label for="cl1afg1hs003y14o0cvmefqcc">Carta topografica</label>
+  <div class="map-menu d-none d-md-block">
+    <div id="menu">
+      <h6 style="text-align:center;"><strong>Bergamo</strong></h6>
+      <input id="cl1afebdi004o14phiw01d9uj" type="radio" name="rtoggle" value="satellite" checked="checked">
+      <label for="cl1afebdi004o14phiw01d9uj">Immagine satellitare</label>
+      <input id="cl1afg1hs003y14o0cvmefqcc" type="radio" name="rtoggle" value="streets">
+      <label for="cl1afg1hs003y14o0cvmefqcc">Carta topografica</label>
+    </div>
+    <button id="fit" class="map-button">Estensione completa sito UNESCO</button>
+    <div id="sun" class="btn-group align-items-center" role="group">
+      <input type="button" id="sunriseEnd" value="alba" class="btn btn-secondary map-button ">
+      <input type="button" id="goldenHourEnd" value="mattino" class="btn btn-secondary map-button ">
+      <input type="button" id="solarNoon" value="pomeriggio" class="btn btn-secondary map-button ">
+      <input type="button" id="goldenHour" value="sera" class="btn btn-secondary map-button ">
+      <input type="button" id="sunsetStart" value="tramonto" class="btn btn-secondary map-button ">
+      <input type="button" id="getlocal" value="ora locale" class="btn btn-secondary map-button ">
+    </div>
   </div>
-  <button id="fit" class="map-button">Estensione completa sito UNESCO</button>
-  <div id="sun" class="btn-group align-items-center" role="group">
-    <input type="button" id="sunriseEnd" value="alba" class="btn btn-secondary map-button ">
-    <input type="button" id="goldenHourEnd" value="mattino" class="btn btn-secondary map-button ">
-    <input type="button" id="solarNoon" value="pomeriggio" class="btn btn-secondary map-button ">
-    <input type="button" id="goldenHour" value="sera" class="btn btn-secondary map-button ">
-    <input type="button" id="sunsetStart" value="tramonto" class="btn btn-secondary map-button ">
-    <input type="button" id="getlocal" value="ora locale" class="btn btn-secondary map-button ">
-  </div>
-</div>
-<!--<nav id="layerswitch"></nav>-->
-<div id="features" class="features">
-  <div class="d-flex flex-md-row justify-content-center mt-2">
-    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-      <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
-    </a>
-  </div>
-  <section id='bergamo' class='active min-vh-100'>
-    <div class ='mobile-transparent'>
-      <h2 id='bergamo'>BERGAMO</h2>
-      <p class="step"><span>La <strong>città fortificata</strong> di Bergamo fu una delle “podestarie maggiori” della Repubblica, in cui Venezia inviava i propri funzionari a governare e amministrare il territorio e garantire la giustizia. Estremo occidentale dell’intero sistema difensivo della Serenissima, nonché nucleo a protezione dello “Stato da Tera” dai tentativi di invasione da parte degli eserciti europei e imperiali, con le sue mura di proporzioni imponenti, alla cui costruzione hanno preso parte numerosi operai e architetti (veneziani e locali), Bergamo rappresenta un eccezionale esempio di città fortificata.</span></p>
-      <img src="/../assets/img/bergamo/1_BG_Mura.jpg" class="img-fluid sidebar" alt="">
-      <p><span>Unica <strong>fortificazione collinare</strong> della serie, lunga 6 Km e formata da: 4 porte, 14 baluardi, 2 piattaforme, 2 polveriere e 100 bocche da fuoco. Per la sua costruzione sono stati demoliti numerosi edifici preesistenti lungo il tracciato delle mura (abitazioni, laboratori, cascine, borghi, luoghi di culto, …) a cui talvolta si ispirano i nomi delle porte e degli altri elementi del sistema difensivo.</span></p>
-      <p><span>Il <strong>sito UNESCO</strong> comprende l’intero perimetro delle mura bastionate e degli spazi intorno (es. il fossato circostante), i due forti esterni di San Vigilio e San Domenico con le due vie di collegamento ad essi, e l’area urbana racchiusa all’interno del sistema fortificato inclusi una serie di edifici militari e di rappresentanza legati al ruolo politico della città in ottica di difesa territoriale.</span></p>
+  <!--<nav id="layerswitch"></nav>-->
+  <div id="features" class="features">
+    <div class="d-flex flex-md-row justify-content-center mt-2">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
+      </a>
     </div>
-  </section>
-  <section id='porta-santagostino'>
-    <div class ='mobile-transparent'>
-      <h5 id='porta-santagostino'>Porta Sant'Agostino</h5>
-      <p class="step"><span>Riedificata in muratura tra il 1574 e il 1588, a pianta quadrangolare, Porta Sant’Agostino fino ad allora era un varco di ingresso in terra e legno. Prende il nome dal non lontano monastero, scampato alla demolizione per la costruzione delle mura, oggi sede dell’Università di Bergamo. Oggi principale e più trafficato ingresso a Bergamo Alta, da Porta Sant’Agostino un tempo passavano Capitani e Podestà in arrivo da Venezia. La porta è divisa in 3 fornici a più piani e l’apertura centrale, più ampia, è caratterizzata da una volta a crociera poggiante su 4 pilastri. Sulla facciata realizzata in arenaria grigia è presente il bassorilievo del Leone Alato nel timpano centrale e sui lati sono ancora visibili i segni delle catene del ponte levatoio.</span></p>
+    <section id='bergamo' class='active min-vh-100'>
+      <div class ='mobile-transparent'>
+        <h2 id='bergamo'>BERGAMO</h2>
+        <p class="step"><span>La <strong>città fortificata</strong> di Bergamo fu una delle “podestarie maggiori” della Repubblica, in cui Venezia inviava i propri funzionari a governare e amministrare il territorio e garantire la giustizia. Estremo occidentale dell’intero sistema difensivo della Serenissima, nonché nucleo a protezione dello “Stato da Tera” dai tentativi di invasione da parte degli eserciti europei e imperiali, con le sue mura di proporzioni imponenti, alla cui costruzione hanno preso parte numerosi operai e architetti (veneziani e locali), Bergamo rappresenta un eccezionale esempio di città fortificata.</span></p>
+        <img src="/../assets/img/bergamo/1_BG_Mura.jpg" class="img-fluid sidebar" alt="">
+        <p><span>Unica <strong>fortificazione collinare</strong> della serie, lunga 6 Km e formata da: 4 porte, 14 baluardi, 2 piattaforme, 2 polveriere e 100 bocche da fuoco. Per la sua costruzione sono stati demoliti numerosi edifici preesistenti lungo il tracciato delle mura (abitazioni, laboratori, cascine, borghi, luoghi di culto, …) a cui talvolta si ispirano i nomi delle porte e degli altri elementi del sistema difensivo.</span></p>
+        <p><span>Il <strong>sito UNESCO</strong> comprende l’intero perimetro delle mura bastionate e degli spazi intorno (es. il fossato circostante), i due forti esterni di San Vigilio e San Domenico con le due vie di collegamento ad essi, e l’area urbana racchiusa all’interno del sistema fortificato inclusi una serie di edifici militari e di rappresentanza legati al ruolo politico della città in ottica di difesa territoriale.</span></p>
+      </div>
+    </section>
+    <section id='porta-santagostino'>
+      <div class ='mobile-transparent'>
+        <h5 id='porta-santagostino'>Porta Sant'Agostino</h5>
+        <p class="step"><span>Riedificata in muratura tra il 1574 e il 1588, a pianta quadrangolare, Porta Sant’Agostino fino ad allora era un varco di ingresso in terra e legno. Prende il nome dal non lontano monastero, scampato alla demolizione per la costruzione delle mura, oggi sede dell’Università di Bergamo. Oggi principale e più trafficato ingresso a Bergamo Alta, da Porta Sant’Agostino un tempo passavano Capitani e Podestà in arrivo da Venezia. La porta è divisa in 3 fornici a più piani e l’apertura centrale, più ampia, è caratterizzata da una volta a crociera poggiante su 4 pilastri. Sulla facciata realizzata in arenaria grigia è presente il bassorilievo del Leone Alato nel timpano centrale e sui lati sono ancora visibili i segni delle catene del ponte levatoio.</span></p>
+      </div>
+    </section>
+    <section id='porta-san-giacomo'>
+      <div class ='mobile-transparent'>
+        <h4 id='porta-san-giacomo'>Porta San Giacomo</h4>
+        <p class="step"><span>Costruita dal 1592, vi si accede da sud attraversando un viadotto in pietra costruito dal governatore veneziano Alvise Contarini nel 1780, in sostituzione dell’originale ponte levatoio in legno che bloccava l’accesso alla fortezza di notte oppure in caso di pericolo. Realizzata in marmo bianco rosato proveniente dalla cava di Zanobbio in Val Cavallina, risulta visibile a distanza. Maestosa e ricca di dettagli soprattutto esternamente, la porta non era solo una difesa per Bergamo, ma anche un manifesto della sua grandiosità, caratterizzata dal timpano centrale contenente il bassorilievo del Leone di San Marco, secolare simbolo della città di Venezia realizzato dallo scultore Piero Brolis, retto da due colonne.</span></p>
+        <img src="/../assets/img/bergamo/2_BG_GIACOMO.jpg" class="img-fluid sidebar" alt="">
+      </div>
+    </section>
+    <section id='cannoniera-sangiovanni'>
+      <div class ='mobile-transparent'>
+        <h5 id='cannoniera-sangiovanni'>Cannoniera di San Giovanni</h5>
+        <p class="step"><span>Risalente al 1550, ai piedi del colle San Giovanni, la Cannoniera è una testimonianza della vita e della tecnica militare all’epoca della Repubblica Veneziana, composta da due grandi sale con i soffitti a volta. Formata in origine da 2 cannoniere su 2 livelli diversi, quella oggi visitabile è la cannoniera sotterranea, accessibile grazie a una scala metallica che collega il piano del baluardo con la casamatta (sotterraneo), posta a difesa del bastione, in cui un tempo i soldati venivano calati dall’alto. La cannoniera di San Giovanni fu riportata alla luce nel 2007 mediante la rimozione di 1880 metri cubi circa di terreno, mentre al suo interno, rimasto chiuso per secoli, l’ambiente richiama quello di una grotta naturale.</span></p>
+      </div>
+    </section>
+    <section id='palazzo-podesta'>
+      <div class ='mobile-transparent'>
+        <h5 id='palazzo-podesta'>Piazza Vecchia e Palazzo del Podestà</h5>
+        <p class="step"><span>Cuore della città, fulcro del potere politico di Bergamo, Piazza Vecchia è contraddistinta da una geometria perfetta tipica dell’architettura veneta e da un gran numero di edifici storici in armonia, compresa la Torre Civica con il “Campanone”, che ogni sera alle 10 suona 100 rintocchi, un tempo utilizzati per avvisare gli abitanti della chiusura delle porte.</span></p>
+        <img src="/../assets/img/bergamo/3_BG_GOMBITO.webp" class="img-fluid sidebar" alt="">
+        <p><span>Su Piazza Vecchia affaccia il Palazzo del Podestà: funzionario inviato dal senato di Venezia, uno dei due rettori insieme al Capitano, con funzioni civili e giudiziarie; di solito si trattava di un patrizio veneziano laureato presso lo Studio di Padova, che restava in carica 16 mesi.</span></p>
+      </div>
+    </section>
+    <section id='porta-santalessandro'>
+      <div class ='mobile-transparent'>
+        <h5 id='porta-santalessandro'>Porta Sant'Alessandro</h5>
+        <p class="step"><span>Completata nel 1565, fu una delle prime porte costruite nelle opere di difesa veneziane e prende il nome dalla antica Basilica di Sant’Alessandro, patrono di Bergamo, demolita nel 1561. Protetta dal Forte San Marco, si apre nella cortina occidentale del circuito bastionato a Colle Aperto e una volta terminato il suo utilizzo per scopi militari assunse la funzione di casello daziario, che mantenne fino al XIX secolo. La costruzione, realizzata in pietra grigia di Sarnico, pietra bianca di Zandobbio e arenaria gialla di Castagneta, all’epoca veneziana aveva la sola apertura di accesso centrale, ma nel tempo ha subito una serie di modifiche, fra cui le due nuove aperture laterali e il riposizionamento del bassorilievo del Leone Alato, sul prospetto esterno, donato dal Comune di Venezia a metà del ‘900.</span></p>
+      </div>
+    </section>
+    <section id='porta-sanlorenzo'>
+      <div class ='mobile-transparent'>
+        <h5 id='porta-sanlorenzo'>Porta San Lorenzo</h5>
+        <img src="/../assets/img/bergamo/4_BG_SANLORENZO.webp" class="img-fluid sidebar" alt="">
+        <p class="step"><span>La più piccola tra le 4 porte, quella di San Lorenzo fu la prima ad essere costruita ed essendo destinata soprattutto alla popolazione e ai mercanti diretti in Svizzera, ha una facciata semplice e con pochi decori, risultando la meno scenografica. Per lo stesso motivo è l’unica a non avere il bassorilievo del leone Alato che venne posto dopo la seconda guerra mondiale ad opera di Piero Brolis sulle altre 3 porte. Nel 1615 la Porta San Lorenzo venne chiusa definitivamente, poiché si temeva non fosse sufficiente a difendere Bergamo dagli attacchi provenienti dalla Val Brembana e Imagna e fu riaperta a un livello superiore nel 1627 (ma la vecchia apertura risulta ancora visibile) per consentire l’accesso alla città dalle valli limitrofe e da Como.</span></p>
+      </div>
+    </section>
+    <div class="d-flex flex-md-row justify-content-center mt-2 min-vh-100">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
+      </a>
     </div>
-  </section>
-  <section id='porta-san-giacomo'>
-    <div class ='mobile-transparent'>
-      <h4 id='porta-san-giacomo'>Porta San Giacomo</h4>
-      <p class="step"><span>Costruita dal 1592, vi si accede da sud attraversando un viadotto in pietra costruito dal governatore veneziano Alvise Contarini nel 1780, in sostituzione dell’originale ponte levatoio in legno che bloccava l’accesso alla fortezza di notte oppure in caso di pericolo. Realizzata in marmo bianco rosato proveniente dalla cava di Zanobbio in Val Cavallina, risulta visibile a distanza. Maestosa e ricca di dettagli soprattutto esternamente, la porta non era solo una difesa per Bergamo, ma anche un manifesto della sua grandiosità, caratterizzata dal timpano centrale contenente il bassorilievo del Leone di San Marco, secolare simbolo della città di Venezia realizzato dallo scultore Piero Brolis, retto da due colonne.</span></p>
-      <img src="/../assets/img/bergamo/2_BG_GIACOMO.jpg" class="img-fluid sidebar" alt="">
-    </div>
-  </section>
-  <section id='cannoniera-sangiovanni'>
-    <div class ='mobile-transparent'>
-      <h5 id='cannoniera-sangiovanni'>Cannoniera di San Giovanni</h5>
-      <p class="step"><span>Risalente al 1550, ai piedi del colle San Giovanni, la Cannoniera è una testimonianza della vita e della tecnica militare all’epoca della Repubblica Veneziana, composta da due grandi sale con i soffitti a volta. Formata in origine da 2 cannoniere su 2 livelli diversi, quella oggi visitabile è la cannoniera sotterranea, accessibile grazie a una scala metallica che collega il piano del baluardo con la casamatta (sotterraneo), posta a difesa del bastione, in cui un tempo i soldati venivano calati dall’alto. La cannoniera di San Giovanni fu riportata alla luce nel 2007 mediante la rimozione di 1880 metri cubi circa di terreno, mentre al suo interno, rimasto chiuso per secoli, l’ambiente richiama quello di una grotta naturale.</span></p>
-    </div>
-  </section>
-  <section id='palazzo-podesta'>
-    <div class ='mobile-transparent'>
-      <h5 id='palazzo-podesta'>Piazza Vecchia e Palazzo del Podestà</h5>
-      <p class="step"><span>Cuore della città, fulcro del potere politico di Bergamo, Piazza Vecchia è contraddistinta da una geometria perfetta tipica dell’architettura veneta e da un gran numero di edifici storici in armonia, compresa la Torre Civica con il “Campanone”, che ogni sera alle 10 suona 100 rintocchi, un tempo utilizzati per avvisare gli abitanti della chiusura delle porte.</span></p>
-      <img src="/../assets/img/bergamo/3_BG_GOMBITO.webp" class="img-fluid sidebar" alt="">
-      <p><span>Su Piazza Vecchia affaccia il Palazzo del Podestà: funzionario inviato dal senato di Venezia, uno dei due rettori insieme al Capitano, con funzioni civili e giudiziarie; di solito si trattava di un patrizio veneziano laureato presso lo Studio di Padova, che restava in carica 16 mesi.</span></p>
-    </div>
-  </section>
-  <section id='porta-santalessandro'>
-    <div class ='mobile-transparent'>
-      <h5 id='porta-santalessandro'>Porta Sant'Alessandro</h5>
-      <p class="step"><span>Completata nel 1565, fu una delle prime porte costruite nelle opere di difesa veneziane e prende il nome dalla antica Basilica di Sant’Alessandro, patrono di Bergamo, demolita nel 1561. Protetta dal Forte San Marco, si apre nella cortina occidentale del circuito bastionato a Colle Aperto e una volta terminato il suo utilizzo per scopi militari assunse la funzione di casello daziario, che mantenne fino al XIX secolo. La costruzione, realizzata in pietra grigia di Sarnico, pietra bianca di Zandobbio e arenaria gialla di Castagneta, all’epoca veneziana aveva la sola apertura di accesso centrale, ma nel tempo ha subito una serie di modifiche, fra cui le due nuove aperture laterali e il riposizionamento del bassorilievo del Leone Alato, sul prospetto esterno, donato dal Comune di Venezia a metà del ‘900.</span></p>
-    </div>
-  </section>
-  <section id='porta-sanlorenzo'>
-    <div class ='mobile-transparent'>
-      <h5 id='porta-sanlorenzo'>Porta San Lorenzo</h5>
-      <img src="/../assets/img/bergamo/4_BG_SANLORENZO.webp" class="img-fluid sidebar" alt="">
-      <p class="step"><span>La più piccola tra le 4 porte, quella di San Lorenzo fu la prima ad essere costruita ed essendo destinata soprattutto alla popolazione e ai mercanti diretti in Svizzera, ha una facciata semplice e con pochi decori, risultando la meno scenografica. Per lo stesso motivo è l’unica a non avere il bassorilievo del leone Alato che venne posto dopo la seconda guerra mondiale ad opera di Piero Brolis sulle altre 3 porte. Nel 1615 la Porta San Lorenzo venne chiusa definitivamente, poiché si temeva non fosse sufficiente a difendere Bergamo dagli attacchi provenienti dalla Val Brembana e Imagna e fu riaperta a un livello superiore nel 1627 (ma la vecchia apertura risulta ancora visibile) per consentire l’accesso alla città dalle valli limitrofe e da Como.</span></p>
-    </div>
-  </section>
-  <div class="d-flex flex-md-row justify-content-center mt-2 min-vh-100">
-    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-      <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
-    </a>
   </div>
 </div>
 <script type="text/javascript" src="../../assets/js/bergamo/map_load.js" defer></script>

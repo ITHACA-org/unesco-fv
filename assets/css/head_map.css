@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif; color:#333333;}
 .legend div span {border-radius: 50%; display: inline-block; height: 10px; margin-right: 5px; width: 10px;}
 .legend h4 {margin: 0 0 10px;}
 .punti-interesse {padding: 25px 0px; line-height: 25px; opacity: 1;}
-#features {width: 38vw; margin-left: 62vw; height: 100%; overflow-y: scroll; background-color: #ffffff; transition: 1s ease; position: relative;}
+#features {margin-left: 62vw; height: 100%; overflow-y: scroll; background-color: #ffffff; transition: 1s ease; position: relative;}
 .sidebar_hide {width: 0%;}
 section {padding: 7vh 2vw; line-height: 25px; border-bottom: 1px solid #ddd; opacity: 0.25; font-size: 15px;}
 section.active {opacity: 1;}

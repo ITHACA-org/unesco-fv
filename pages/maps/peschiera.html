@@ -3,43 +3,44 @@ layout: peschiera
 title: Peschiera del Garda - Opere di Difesa Veneziane
 permalink: /maps/peschiera/
 ---
-<div id="map" class="map">
-  <div id="zones-legend" class="legend d-none d-md-block">
-    <h6>Componenti UNESCO in mappa</h6>
-    <div><span style="background-color: #d8b365"></span>Core zone</div>
-    <div><span style="background-color: #5ab4ac"></span>Buffer zone</div>
+<div class="container-fluid">
+  <div id="map" class="map">
+    <div id="zones-legend" class="legend d-none d-md-block">
+      <h6>Componenti UNESCO in mappa</h6>
+      <div><span style="background-color: #d8b365"></span>Core zone</div>
+      <div><span style="background-color: #5ab4ac"></span>Buffer zone</div>
+    </div>
   </div>
-</div>
-<div class="map-menu d-none d-md-block">
-  <div id="menu">
-    <h6 style="text-align:center;"><strong>Peschiera del Garda</strong></h6>
-    <input id="cl1afebdi004o14phiw01d9uj" type="radio" name="rtoggle" value="satellite" checked="checked">
-    <label for="cl1afebdi004o14phiw01d9uj">Immagine satellitare</label>
-    <input id="cl1afg1hs003y14o0cvmefqcc" type="radio" name="rtoggle" value="streets">
-    <label for="cl1afg1hs003y14o0cvmefqcc">Carta topografica</label>
+  <div class="map-menu d-none d-md-block">
+    <div id="menu">
+      <h6 style="text-align:center;"><strong>Peschiera del Garda</strong></h6>
+      <input id="cl1afebdi004o14phiw01d9uj" type="radio" name="rtoggle" value="satellite" checked="checked">
+      <label for="cl1afebdi004o14phiw01d9uj">Immagine satellitare</label>
+      <input id="cl1afg1hs003y14o0cvmefqcc" type="radio" name="rtoggle" value="streets">
+      <label for="cl1afg1hs003y14o0cvmefqcc">Carta topografica</label>
+    </div>
+    <button id="fit">Estensione completa sito UNESCO</button>
+    <div id="sun" class="btn-group align-items-center" role="group">
+      <input type="button" id="sunriseEnd" value="alba" class="btn btn-secondary map-button ">
+      <input type="button" id="goldenHourEnd" value="mattino" class="btn btn-secondary map-button ">
+      <input type="button" id="solarNoon" value="pomeriggio" class="btn btn-secondary map-button ">
+      <input type="button" id="goldenHour" value="sera" class="btn btn-secondary map-button ">
+      <input type="button" id="sunsetStart" value="tramonto" class="btn btn-secondary map-button ">
+      <input type="button" id="getlocal" value="ora locale" class="btn btn-secondary map-button ">
+    </div>
   </div>
-  <button id="fit">Estensione completa sito UNESCO</button>
-  <div id="sun" class="btn-group align-items-center" role="group">
-    <input type="button" id="sunriseEnd" value="alba" class="btn btn-secondary map-button ">
-    <input type="button" id="goldenHourEnd" value="mattino" class="btn btn-secondary map-button ">
-    <input type="button" id="solarNoon" value="pomeriggio" class="btn btn-secondary map-button ">
-    <input type="button" id="goldenHour" value="sera" class="btn btn-secondary map-button ">
-    <input type="button" id="sunsetStart" value="tramonto" class="btn btn-secondary map-button ">
-    <input type="button" id="getlocal" value="ora locale" class="btn btn-secondary map-button ">
-  </div>
-</div>
-</div>
-<div id="features" class="features">
-  <div class="d-flex flex-md-row justify-content-center mt-2">
-    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-      <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
-    </a>
-  </div>
-  <section id='peschiera' class='active min-vh-100'>
-    <div class ='mobile-transparent'>
-      <h2 id='peschiera'>PESCHIERA DEL GARDA</h2>
-      <p class="step"><span>Peschiera del Garda si trova in un punto strategico per la difesa dello Stato di Terra: a metà strada fra Venezia e Bergamo, estremo occidentale della Repubblica Veneta, si sviluppa sulla costa meridionale del Lago di Garda, là dove si divide in tre canali, dando vita al Mincio. Il cuore storico di Peschiera sorge sui tre isolotti, collegati alla terraferma da una serie di ponti.</span></p>
-      <span>Unica città fortificata del sito seriale collocata in un contesto di lago e sistema fluviale e unica del sistema a pianta pentagonale. Le sue mura, già esistenti in epoca romana, subirono numerosi interventi nel tempo, fino a diventare una <strong>fortezza alla moderna</strong> sotto il dominio della Repubblica di Venezia: i cinque lati della cinta muraria, che ripercorrono la forma pentagonale del terreno (già evidenziata dalle mura medievali), vennero rinforzati con terrapieni e 5 bastioni (Querini, San Marco, Cantarane, Feltrin e Tognon) e circondati da fossati, ulteriore elemento di difesa oltre le mura, in linea con i nuovi criteri architettonici del periodo. Sempre in epoca veneziana vennero aperte le due porte: Porta Verona e Porta Brescia, orientate rispettivamente verso le due città da cui presero il nome.</span></p>
+  <div id="features" class="features">
+    <div class="d-flex flex-md-row justify-content-center mt-2">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <img src="/assets/img/logo_black.jpg" alt="" height="216" class="mx-auto d-block">
+      </a>
+    </div>
+    <section id='peschiera' class='active min-vh-100'>
+      <div class ='mobile-transparent'>
+        <h2 id='peschiera'>PESCHIERA DEL GARDA</h2>
+        <p class="step"><span>Peschiera del Garda si trova in un punto strategico per la difesa dello Stato di Terra: a metà strada fra Venezia e Bergamo, estremo occidentale della Repubblica Veneta, si sviluppa sulla costa meridionale del Lago di Garda, là dove si divide in tre canali, dando vita al Mincio. Il cuore storico di Peschiera sorge sui tre isolotti, collegati alla terraferma da una serie di ponti.</span></p>
+        <span>Unica città fortificata del sito seriale collocata in un contesto di lago e sistema fluviale e unica del sistema a pianta pentagonale. Le sue mura, già esistenti in epoca romana, subirono numerosi interventi nel tempo, fino a diventare una <strong>fortezza alla moderna</strong> sotto il dominio della Repubblica di Venezia: i cinque lati della cinta muraria, che ripercorrono la forma pentagonale del terreno (già evidenziata dalle mura medievali), vennero rinforzati con terrapieni e 5 bastioni (Querini, San Marco, Cantarane, Feltrin e Tognon) e circondati da fossati, ulteriore elemento di difesa oltre le mura, in linea con i nuovi criteri architettonici del periodo. Sempre in epoca veneziana vennero aperte le due porte: Porta Verona e Porta Brescia, orientate rispettivamente verso le due città da cui presero il nome.</span>
+      </p>
     </div>
   </section>
   <section id='porta-verona'>
@@ -48,46 +49,53 @@ permalink: /maps/peschiera/
       <h5 id='porta-verona'>Porta Verona</h5>
       <p class="step"><span>Porta Verona, maestoso simbolo della potenza della Repubblica di Venezia, costruita nel 1553, è stata colpita e danneggiata dagli eserciti napoleonici che, in segno di spregio, dopo il trattato di Campoformio del 1797, hanno distrutto il bassorilievo originale del Leone Alato di San Marco.
         <img src="/../assets/img/peschiera/PG_2_porta_verona.webp" class="img-fluid sidebar" alt="">
-        Nel 2019, all’interno di un prestigioso lavoro di restauro è stata inserita nella sua sede originaria una nuova statua del leone, realizzata in collaborazione con l’Accademia delle belle arti di Verona, che ha riprodotto l’imponenza del leone nelle sue dimensioni originali.</span></p>
-      </div>
-    </section>
-    <section id='bastione-san-marco'>
-      <div class ='mobile-transparent'>
-        <h5 id='bastione-san-marco'>Bastione San Marco</h5>
-        <img src="/../assets/img/peschiera/PG_3_sanmarco.webp" class="img-fluid sidebar" alt="">
-        <p class="step"><span>Il Bastione San Marco, eretto nel 1553, è il secondo dei cinque in ordine di costruzione e ancora oggi, in perfetto stato di conservazione, permette di ammirare le strutture tecniche militari delle fortezze alla moderna.</span></p>
-      </div>
-    </section>
-    <section id='bastione-querini'>
-      <div class ='mobile-transparent'>
-        <h5 id='bastione-querini'>Bastione Querini</h5>
-        <img src="/../assets/img/peschiera/PG_4_queriniporto.webp" class="img-fluid sidebar" alt="">
-        <p class="step"><span>Il Bastione Querini, rappresentava, insieme al suo gemello sul lato opposto, demolito nel 1906, uno dei due lati del punto di ingresso alla fortezza per barche e battelli in arrivo dal lago.</span></p>
-      </div>
-    </section>
-    <section id='piazza-san-marco'>
-      <div class ='mobile-transparent'>
-        <h4 id='piazza-san-marco'>Piazza San Marco e Palazzo del Provveditore</h4>
-        <img src="/../assets/img/peschiera/PG_5_salacivica.webp" class="img-fluid sidebar" alt="">
-        <p class="step"><span>Piazza San Marco, cuore del centro storico di Peschiera, si caratterizza per la presenza di due obelischi del XVI secolo che incorniciano il quadrato di fronte al Canale di Mezzo. Su questa piazzetta si affaccia il Palazzo del Provveditore, centro di potere che ospitava i Provveditori, patrizi inviati da Venezia per governare la Fortezza.</span>
-        </p>
-      </div>
-    </section>
-    <section id='ponte-dei-voltoni'>
-      <div class ='mobile-transparent'>
-        <h5 id='ponte-dei-voltoni'>Ponte dei Voltoni</h5>
-        <p class="step"><span>Costruito nel 1556 a Fortezza ultimata, il Ponte dei Voltoni è una porzione di cortina muraria, che deve il nome alla sua struttura caratterizzata da cinque voltoni in pietra sull’acqua, sufficientemente bassi da permettere l’ingresso solo alle barche da pesca di piccole dimensioni.
-          <img src="/../assets/img/peschiera/PG_6_pontevoltoni.webp" class="img-fluid sidebar" alt="">
-          Il Ponte unisce l’isola settentrionale con quella più a Sud, divise dal Canale di Mezzo. Qui vicino le acque del lago si versano nel fiume Mincio.</span></p>
-        </div>
-      </section>
-      <section id='porta-brescia'>
-        <div class ='mobile-transparent'>
-          <h5 id='porta-brescia'>Porta Brescia</h5>
-          <p class="step"><span>Porta Brescia, con la sua struttura semplice e compatta, caratteristica delle costruzioni militari, permetteva l’accesso alla città fortificata, ma è anche quella che svela il fianco debole della fortezza dominata dalle alture. <br> Punto strategico della città da cui si può osservare in tutta la sua possenza il lato a Ponente della fortezza, difeso dal fossato – detto Fossa Reale – e compreso fra il Bastione Feltrin e il bastione Tognon con il ponte settecentesco.
-            <img src="/../assets/img/peschiera/PG_1_bastionefeltrin.webp" class="img-fluid sidebar" alt="">
-          </span></p>
-        </div>
-        <script type="text/javascript" src="../../assets/js/peschiera/map_load.js" defer></script>
-        <script type="text/javascript" src="../../assets/js/peschiera/layer_load.js" defer></script>
-        <script type="text/javascript" src="../../assets/js/peschiera/mapboxscripts.js" defer></script>
+        Nel 2019, all’interno di un prestigioso lavoro di restauro è stata inserita nella sua sede originaria una nuova statua del leone, realizzata in collaborazione con l’Accademia delle belle arti di Verona, che ha riprodotto l’imponenza del leone nelle sue dimensioni originali.</span>
+      </p>
+    </div>
+  </section>
+  <section id='bastione-san-marco'>
+    <div class ='mobile-transparent'>
+      <h5 id='bastione-san-marco'>Bastione San Marco</h5>
+      <img src="/../assets/img/peschiera/PG_3_sanmarco.webp" class="img-fluid sidebar" alt="">
+      <p class="step"><span>Il Bastione San Marco, eretto nel 1553, è il secondo dei cinque in ordine di costruzione e ancora oggi, in perfetto stato di conservazione, permette di ammirare le strutture tecniche militari delle fortezze alla moderna.</span>
+      </p>
+    </div>
+  </section>
+  <section id='bastione-querini'>
+    <div class ='mobile-transparent'>
+      <h5 id='bastione-querini'>Bastione Querini</h5>
+      <img src="/../assets/img/peschiera/PG_4_queriniporto.webp" class="img-fluid sidebar" alt="">
+      <p class="step"><span>Il Bastione Querini, rappresentava, insieme al suo gemello sul lato opposto, demolito nel 1906, uno dei due lati del punto di ingresso alla fortezza per barche e battelli in arrivo dal lago.</span>
+      </p>
+    </div>
+  </section>
+  <section id='piazza-san-marco'>
+    <div class ='mobile-transparent'>
+      <h4 id='piazza-san-marco'>Piazza San Marco e Palazzo del Provveditore</h4>
+      <img src="/../assets/img/peschiera/PG_5_salacivica.webp" class="img-fluid sidebar" alt="">
+      <p class="step"><span>Piazza San Marco, cuore del centro storico di Peschiera, si caratterizza per la presenza di due obelischi del XVI secolo che incorniciano il quadrato di fronte al Canale di Mezzo. Su questa piazzetta si affaccia il Palazzo del Provveditore, centro di potere che ospitava i Provveditori, patrizi inviati da Venezia per governare la Fortezza.</span>
+      </p>
+    </div>
+  </section>
+  <section id='ponte-dei-voltoni'>
+    <div class ='mobile-transparent'>
+      <h5 id='ponte-dei-voltoni'>Ponte dei Voltoni</h5>
+      <p class="step"><span>Costruito nel 1556 a Fortezza ultimata, il Ponte dei Voltoni è una porzione di cortina muraria, che deve il nome alla sua struttura caratterizzata da cinque voltoni in pietra sull’acqua, sufficientemente bassi da permettere l’ingresso solo alle barche da pesca di piccole dimensioni.
+        <img src="/../assets/img/peschiera/PG_6_pontevoltoni.webp" class="img-fluid sidebar" alt="">
+        Il Ponte unisce l’isola settentrionale con quella più a Sud, divise dal Canale di Mezzo. Qui vicino le acque del lago si versano nel fiume Mincio.</span>
+      </p>
+    </div>
+  </section>
+  <section id='porta-brescia'>
+    <div class ='mobile-transparent'>
+      <h5 id='porta-brescia'>Porta Brescia</h5>
+      <p class="step"><span>Porta Brescia, con la sua struttura semplice e compatta, caratteristica delle costruzioni militari, permetteva l’accesso alla città fortificata, ma è anche quella che svela il fianco debole della fortezza dominata dalle alture. <br> Punto strategico della città da cui si può osservare in tutta la sua possenza il lato a Ponente della fortezza, difeso dal fossato – detto Fossa Reale – e compreso fra il Bastione Feltrin e il bastione Tognon con il ponte settecentesco.
+        <img src="/../assets/img/peschiera/PG_1_bastionefeltrin.webp" class="img-fluid sidebar" alt="">
+      </span>
+    </p>
+  </div>
+</div>
+</div>
+<script type="text/javascript" src="../../assets/js/peschiera/map_load.js" defer></script>
+<script type="text/javascript" src="../../assets/js/peschiera/layer_load.js" defer></script>
+<script type="text/javascript" src="../../assets/js/peschiera/mapboxscripts.js" defer></script>
