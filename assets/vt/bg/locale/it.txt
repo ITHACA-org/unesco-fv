@@ -1,0 +1,205 @@
+#: locale=it
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_DA90F018_F03C_26B0_41EA_F6E9AE44B6CD.text = AFFACCIATI  \
+DAL BALUARDO
+HotspotPanoramaOverlayTextImage_CD523209_E0F0_5BD6_41B0_3CD3366279F3.text = AVVICINATI ALLA CANNONIERA
+HotspotPanoramaOverlayTextImage_DD109388_F0D4_E997_41B7_A95DEEC2353E.text = BALUARDO \
+S. GIACOMO \
+
+HotspotPanoramaOverlayTextImage_FA7104F0_E1B0_584F_41EC_13AB15A5DDC8.text = BASILICA SANTA \
+MARIA MAGGIORE
+HotspotPanoramaOverlayTextImage_E5DD9540_F52C_9E70_41A3_CB8D6EC0F261.text = CAMPANONE
+HotspotPanoramaOverlayTextImage_FA09D178_E1B0_F83F_41E6_B2F4BD36CEFA.text = CANNONIERA
+HotspotPanoramaOverlayTextImage_D3EA9009_F524_B5F2_41E2_715DA70F86A6.text = CATTEDRALE DI \
+S. ALESSANDRO MARTIRE
+HotspotPanoramaOverlayTextImage_DC90EE32_F034_5AF1_41D3_6AD931DC1A21.text = OROLOGIO \
+SOLARE
+HotspotPanoramaOverlayTextImage_FD146EBA_E1B3_C833_41DA_D1553B1C9288.text = PALAZZO DELLA \
+RAGIONE
+HotspotPanoramaOverlayTextImage_FC757186_E190_D8D3_41B9_A30BF44C941D.text = POLVERIERA
+HotspotPanoramaOverlayTextImage_FA80F245_F4DF_9422_41CF_EDF0334BD495.text = PORTA \
+S. AGOSTINO
+HotspotPanoramaOverlayTextImage_DF87ECF8_F053_DF7D_41D8_2789787A6AA7.text = PORTA \
+S. ALESSANDRO
+HotspotPanoramaOverlayTextImage_DD337F25_F054_5A97_41EC_358509600614.text = PORTA \
+S. LORENZO
+HotspotPanoramaOverlayTextImage_F8FC9468_E190_D850_41CF_65FC4AB1DA71.text = PORTA  \
+S. GIACOMO
+HotspotPanoramaOverlayTextImage_E725D7FB_F52C_9A16_41EC_53E4340EA532.text = VAI A \
+PIAZZA VECCHIA
+HotspotPanoramaOverlayTextImage_F222F24D_E0B3_B865_41EA_AA8D1A9DE980.text = VAI A \
+PIAZZA VECCHIA
+HotspotPanoramaOverlayTextImage_F8E431A1_E0B0_58D8_41D9_1ADF57B5D8C4.text = VAI A \
+PORTA \
+S. GIACOMO
+HotspotPanoramaOverlayTextImage_F4DBE688_E090_58D3_41D1_6DCEAA569FE6.text = VAI A \
+PORTA \
+S. GIACOMO
+HotspotPanoramaOverlayTextImage_E725E7FA_F52C_9A16_41EA_01B5D4D09C6B.text = VAI A  \
+PORTA \
+S. ALESSANDRO
+HotspotPanoramaOverlayTextImage_F69D5794_E0F0_D8FE_41E7_D829C32280B5.text = VAI A PORTA \
+S. AGOSTINO
+HotspotPanoramaOverlayTextImage_DCF0D089_F033_E793_41EC_E32136A207B7.text = VAI A PORTA \
+S. ALESSANDRO
+HotspotPanoramaOverlayTextImage_F68B2610_E093_BBF9_41CD_4B6556BE90AD.text = VAI A PORTA \
+S. GIACOMO
+HotspotPanoramaOverlayTextImage_CF6EB670_E0F0_5836_41D7_A7D10977208A.text = VAI A PORTA \
+S. GIACOMO
+HotspotPanoramaOverlayTextImage_DCCA3F27_F054_5A92_41E6_988E936F0ADB.text = VAI A PORTA  \
+S. AGOSTINO
+HotspotPanoramaOverlayTextImage_F56D2A59_E090_C875_41E0_9E3A11E5D34F.text = VAI A PORTA  \
+S. ALESSANDRO
+HotspotPanoramaOverlayTextImage_F6500D16_E0B1_C9F8_41E5_E15E1B94567C.text = VAI A PORTA  \
+S. LORENZO
+HotspotPanoramaOverlayTextImage_DA0BFFD9_F054_39BF_41D0_5CE0DF41A283.text = VAI A PORTA  \
+S. LORENZO
+HotspotPanoramaOverlayTextImage_F662553D_E0B1_B828_41C4_7B8C2FC38B86.text = VAI AL \
+BALUARDO  \
+S. MICHELE
+HotspotPanoramaOverlayTextImage_EBEF7C99_F054_7FBF_41B3_D3CE8C24B233.text = VAI AL \
+BALUARDO  \
+S. MICHELE
+HotspotPanoramaOverlayTextImage_DD62268B_F05C_2B93_41EB_BF21036CE920.text = VAI ALLA \
+CANNONIERA
+HotspotPanoramaOverlayTextImage_EB3E1FB0_F054_F98D_41D2_3069EAD33456.text = VAI ALLA \
+CANNONIERA
+HotspotPanoramaOverlayTextImage_F7F46F8D_E0B1_C8EB_41E6_CB9198BBF1F0.text = VAI ALLA \
+ROCCA
+HotspotPanoramaOverlayTextImage_F7301AB0_E090_483A_41BD_6E47F581DCAE.text = VAI IN \
+PIAZZA DUOMO
+HotspotPanoramaOverlayTextImage_E4B886F3_F53B_9A10_41E3_D907EFD39254.text = VAI IN \
+PIAZZA VECCHIA
+HotspotPanoramaOverlayTextImage_E70A6002_F525_95F6_41EC_9603DAC0AF66.text = VAI IN \
+PIAZZA VECCHIA
+
+### Tooltip
+HotspotMapOverlayArea_D006C9F5_F073_D978_41C8_2C3236A538AF.toolTip = Baluardo S.Michele
+HotspotMapOverlayArea_EF3B32A3_F04C_2B98_41DC_5C43E46D6481.toolTip = Cannoniera
+HotspotMapOverlayArea_EF3B5B59_F075_DAA9_41B2_52E966E73A6B.toolTip = Duomo
+HotspotMapOverlayArea_D080FE9B_F074_3BA9_41AC_68E3866D7FA1.toolTip = La Rocca
+HotspotMapOverlayArea_EF19C328_F075_EA97_41D1_973154016CAF.toolTip = Piazza Vecchia
+HotspotMapOverlayArea_EF72D107_F074_2699_41DF_2103E9DD3C9C.toolTip = Porta S. Agostino
+HotspotMapOverlayArea_D08E6307_F04C_2A98_41CC_45909D161F28.toolTip = Porta S. Alessandro
+HotspotMapOverlayArea_ECFD6F3E_F04F_FAF0_41D7_5D5A012E0679.toolTip = Porta S. Giacomo
+HotspotMapOverlayArea_D00DE58B_F074_69A9_41B1_A5A0768BD28B.toolTip = Porta S.Lorenzo
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_CA7228AC_FF55_3779_41E0_53D952597FBC.url = media/map_D91C23AE_FA0A_19CC_41EC_980CA7545B77_it_0.png
+imlevel_CA7208AD_FF55_377B_41C4_707B090C60E1.url = media/map_D91C23AE_FA0A_19CC_41EC_980CA7545B77_it_1.png
+imlevel_CA7218AD_FF55_377B_41DF_977A6EE2E1E8.url = media/map_D91C23AE_FA0A_19CC_41EC_980CA7545B77_it_2.png
+imlevel_CA75F8AD_FF55_377B_41D4_D53CC4484477.url = media/map_D91C23AE_FA0A_19CC_41EC_980CA7545B77_it_3.png
+imlevel_CA75C8AD_FF55_377B_41DE_07DAEF812F0A.url = media/map_D91C23AE_FA0A_19CC_41EC_980CA7545B77_it_4.png
+imlevel_C518A289_F565_9AF4_41C9_1426B8B928A9.url = media/panorama_D6564252_F054_2AB5_41EC_2D4EDCA0472C_HS_0vcngis1_it.png
+imlevel_E01A2479_F56F_FE15_41E1_F38A471082F7.url = media/panorama_D6564252_F054_2AB5_41EC_2D4EDCA0472C_HS_jbbtfiki_it.png
+imlevel_E067849F_F56F_FE0D_41EC_73293F0F1C76.url = media/panorama_D6564252_F054_2AB5_41EC_2D4EDCA0472C_HS_xd1jhoa1_it.png
+imlevel_E07D27B7_F56F_FA1E_41EC_5336A0BEC8FC.url = media/panorama_D686562B_F05C_2AEB_41DE_47F7F910B192_HS_8x5mhypx_it.png
+imlevel_E07EA7DD_F56F_FA12_41E5_F7FA35B3FD6E.url = media/panorama_D686562B_F05C_2AEB_41DE_47F7F910B192_HS_m488zypw_it.png
+imlevel_DBCEB910_F565_9614_4162_A4B725A8A064.url = media/panorama_D6905A80_F05F_DB95_41E5_C0F182A6A4E7_HS_35s842y2_it.png
+imlevel_ED613E9E_F56F_EA0E_41EA_6CFAEEF8C318.url = media/panorama_D6905A80_F05F_DB95_41E5_C0F182A6A4E7_HS_an7oi4wh_it.png
+imlevel_E0630EFA_F56F_EA16_41D2_6D2840D86BD7.url = media/panorama_D6905A80_F05F_DB95_41E5_C0F182A6A4E7_HS_gdk8ymgg_it.png
+imlevel_E0D8AA52_F56F_EA16_41E6_4BDF130573E3.url = media/panorama_D6905A80_F05F_DB95_41E5_C0F182A6A4E7_HS_p41vkdos_it.png
+imlevel_C561D39D_F565_9A0C_41E8_EB57844E405E.url = media/panorama_D693F861_F05C_2694_41C1_388EC1DE3A47_HS_1ge1ussr_it.png
+imlevel_E0DF89BA_F56F_F616_41CB_775D5224EDD3.url = media/panorama_D693F861_F05C_2694_41C1_388EC1DE3A47_HS_56dolvv1_it.png
+imlevel_E0D97A2D_F56F_EA32_41D5_FC89F306F537.url = media/panorama_D693F861_F05C_2694_41C1_388EC1DE3A47_HS_azimgig4_it.png
+imlevel_C51F637A_F565_9A14_41EC_5D7FA9BB66AA.url = media/panorama_D693F861_F05C_2694_41C1_388EC1DE3A47_HS_hsvh1at8_it.png
+imlevel_C51D234B_F565_9A0B_41D5_1CB04DD61CC1.url = media/panorama_D697DEE3_F05C_3B94_41D2_1BF0BFDD7C0A_HS_4e4uouvr_it.png
+imlevel_E0713736_F56F_FA1E_41EB_20F95CA31EC6.url = media/panorama_D697DEE3_F05C_3B94_41D2_1BF0BFDD7C0A_HS_g16zsmkk_it.png
+imlevel_E0718712_F56F_FA16_41DB_28675629B10B.url = media/panorama_D697DEE3_F05C_3B94_41D2_1BF0BFDD7C0A_HS_kolb4q7f_it.png
+imlevel_E06E75FB_F56F_FE16_41ED_F15FF92D53BF.url = media/panorama_D69CA8C9_F05C_2797_418B_A67D0CF348E4_HS_626ruv82_it.png
+imlevel_C51A32D3_F565_9A14_41E1_E755E7A23F82.url = media/panorama_D69CA8C9_F05C_2797_418B_A67D0CF348E4_HS_mag5boda_it.png
+imlevel_E06A165D_F56F_FA12_41D7_0CC122CFE6AA.url = media/panorama_D69CA8C9_F05C_2797_418B_A67D0CF348E4_HS_q80ybi15_it.png
+imlevel_E07726EB_F56F_FA36_41ED_906F5BDB520E.url = media/panorama_D69CA8C9_F05C_2797_418B_A67D0CF348E4_HS_ui88yo22_it.png
+imlevel_E06FF5BD_F56F_FE12_41E6_0F2F6B3556F5.url = media/panorama_D6C24A51_F053_FAB7_41E7_83EFC426C7F5_HS_7iy0tvse_it.png
+imlevel_E06D1596_F56F_FE1E_41E1_1D1A5482C1E5.url = media/panorama_D6C24A51_F053_FAB7_41E7_83EFC426C7F5_HS_c5rpjjv5_it.png
+imlevel_E0612507_F56F_FFFE_41E8_7824C4EC3617.url = media/panorama_D6C24A51_F053_FAB7_41E7_83EFC426C7F5_HS_k3g2k0wp_it.png
+imlevel_E0633561_F56F_FE32_416D_1EED3023FDD5.url = media/panorama_D6C24A51_F053_FAB7_41E7_83EFC426C7F5_HS_s91fspxm_it.png
+imlevel_E06CAF26_F56F_EA3E_41E5_B12E1A0C79A6.url = media/panorama_D7800723_F05C_2A9B_41E2_9797D381BC44_HS_2gc9engf_it.png
+imlevel_E01CF3AB_F56F_FA36_41C5_8676EEB79F50.url = media/panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C_HS_4ba6k09b_it.png
+imlevel_C514717F_F565_960C_41D4_4A18B7C8AF8D.url = media/panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C_HS_796lt1mh_it.png
+imlevel_C513315E_F565_960C_41CE_0D93392BE785.url = media/panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C_HS_d6a7y7pb_it.png
+imlevel_EB250983_F054_5990_41E0_CEAF7C1FC46A.url = media/panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C_HS_kt6z6gch_it.png
+imlevel_EB50C8BE_F054_67F0_41C6_72DF1CE28A3E.url = media/panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C_HS_m3awjt53_it.png
+imlevel_E01B9454_F56F_FE13_41EC_BE8EAD5795C4.url = media/panorama_EE5DC081_F034_2795_41D2_6F44664BA95B_HS_5is2i30t_it.png
+imlevel_E01FF3E1_F56F_FA32_41C2_A30C4FB06E49.url = media/panorama_EE5DC081_F034_2795_41D2_6F44664BA95B_HS_lrz5444l_it.png
+imlevel_D4981CEA_F054_5F95_41E7_A01FC19E208B.url = media/panorama_EE5DC081_F034_2795_41D2_6F44664BA95B_HS_mwvco5fy_it.png
+imlevel_E018F424_F56F_FE32_41EE_46D45D704C6E.url = media/panorama_EE5DC081_F034_2795_41D2_6F44664BA95B_HS_ru9b6l7p_it.png
+imlevel_D466BDF4_F054_597D_41D1_92F04AEE11EB.url = media/panorama_EE5DC081_F034_2795_41D2_6F44664BA95B_HS_vidqzsav_it.png
+imlevel_E93F9EBE_F52D_6A0D_41EE_73953DBE2710.url = media/popup_E818611C_F525_B60D_41D7_2C4CBF9D00CC_it_0_0.jpg
+imlevel_E93E9EBE_F52D_6A0D_41CA_21AA33239955.url = media/popup_E818611C_F525_B60D_41D7_2C4CBF9D00CC_it_0_1.jpg
+imlevel_E93E8EBF_F52D_6A0B_41E8_61E43CDBC0C7.url = media/popup_E818611C_F525_B60D_41D7_2C4CBF9D00CC_it_0_2.jpg
+imlevel_E9C20609_F52D_9DF7_41ED_60EC11681878.url = media/popup_E8D45847_F524_B67B_41E7_843D845AC140_it_0_0.jpg
+imlevel_E9C2160A_F52D_9DF5_41EC_1BEA96318502.url = media/popup_E8D45847_F524_B67B_41E7_843D845AC140_it_0_1.jpg
+imlevel_E9C2260A_F52D_9DF5_41D7_868B73D3ACFD.url = media/popup_E8D45847_F524_B67B_41E7_843D845AC140_it_0_2.jpg
+imlevel_E9C2460A_F52D_9DF5_41A1_CC79D0C677F8.url = media/popup_E8D45847_F524_B67B_41E7_843D845AC140_it_0_3.jpg
+imlevel_E9C1460A_F52D_9DF5_41E7_CCAF418BC1FF.url = media/popup_E8D45847_F524_B67B_41E7_843D845AC140_it_0_4.jpg
+imlevel_E93EDDF6_F52D_6E1D_41DC_9287363362A8.url = media/popup_E8FDDCEC_F525_6E0D_41BA_F52457C1E229_it_0_0.jpg
+imlevel_E93ECDF6_F52D_6E1D_41DA_7810D77C4AB2.url = media/popup_E8FDDCEC_F525_6E0D_41BA_F52457C1E229_it_0_1.jpg
+
+### Popup Image
+
+### Title
+panorama_D686562B_F05C_2AEB_41DE_47F7F910B192.label = Baluardo S. Michele
+panorama_EE5DC081_F034_2795_41D2_6F44664BA95B.label = Cannoniera
+panorama_D6564252_F054_2AB5_41EC_2D4EDCA0472C.label = Cannoniera vista 1
+panorama_D6905A80_F05F_DB95_41E5_C0F182A6A4E7.label = Duomo
+panorama_D7800723_F05C_2A9B_41E2_9797D381BC44.label = La Rocca
+panorama_D693F861_F05C_2694_41C1_388EC1DE3A47.label = Piazza Vecchia
+panorama_D697DEE3_F05C_3B94_41D2_1BF0BFDD7C0A.label = Porta S.Agostino
+panorama_D6C24A51_F053_FAB7_41E7_83EFC426C7F5.label = Porta S.Alessandro
+panorama_EAEB7EB8_F074_FBFA_4167_262DC80AA96C.label = Porta S.Giacomo
+panorama_D69CA8C9_F05C_2797_418B_A67D0CF348E4.label = Porta S.Lorenzo
+map_D91C23AE_FA0A_19CC_41EC_980CA7545B77.label = mappa Bergamo
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = MAPPA
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = MAPPA
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_it.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_it.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_it.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_it.png
+Image_CC7816D3_E090_587B_41CF_AB35914FA007.url = skin/Image_CC7816D3_E090_587B_41CF_AB35914FA007_it.jpg
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = BERGAMO
+Label_EA3649B3_F04C_7988_41D4_042CDA7CA339.text = Città Alta
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = BERGAMO
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = Città Alta
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.14vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1a3639;font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.76vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1a3639;font-size:6.67vmin;font-family:'Bebas Neue Bold';">Bergamo</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.086997193638915vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.09vmin;font-family:'Nexa Bold';"><I>Città alta</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Sui sette colli al centro della città di Bergamo sorge la Città Alta. Con questo tour virtuale vi si può accedere da Porta S. Giacomo lasciandosi alle spalle la magnifica vista dei tetti della Città Bassa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Una volta oltrepassata la porta si può proseguire a sinistra o a destra lungo le</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">mura, oppure dirigersi verso il centro città.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Scegliendo la via lungo le mura si incrociano i punti di interesse della Cannoniera e le altre tre porte di accesso alla città: S. Alessandro, S. Lorenzo e S. Agostino.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Dirigendosi invece verso il centro ci si potrà guardare attorno in Piazza Vecchia, dove si trova il Palazzo della Ragione; in Piazza Duomo, ed infine osservare la città dal belvedere nei pressi della Rocca.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Virtual Tour di Bergamo
