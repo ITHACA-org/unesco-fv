@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJjbDFhZmxraGMwd2c2M2xwbTRkeGh3dTE4In0.d8dPbPli4djvVcORKflS4A';
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
-	style: 'mapbox://styles/guercusguo/cl1afebdi004o14phiw01d9uj', // style URL
+	style: 'mapbox://styles/guercusguo/cl1afg1hs003y14o0cvmefqcc', // style URL
 	center: [13.316944,45.9], // starting position
 	zoom: 12 // starting zoom
 	// pitch: 85,
@@ -18,17 +18,17 @@ var chapters = {
 	},
 	'porta-cividale': {
 		center: [13.315168, 45.907329],
-		bearing: 0,
-		zoom: 17,
+		bearing: 243,
+		zoom: 18,
 		speed: 0.3,
-		pitch: 40
+		pitch: 65
 	},
 	'porta-udine': {
-		bearing: 0,
+		bearing: 305,
 		center: [13.304792, 45.907853],
 		zoom: 17,
 		speed: 0.3,
-		pitch: 40
+		pitch: 70
 	},
 	'acquedotto-veneziano-e-cascatella': {
 		bearing: 0,
@@ -56,28 +56,21 @@ var chapters = {
 		center: [13.309893, 45.905404],
 		zoom: 19,
 		speed: 0.3,
-		pitch: 40
+		pitch: 70
 	},
 	'palazzo-del-provveditore-generale': {
 		bearing: 0,
-		center: [13.311293, 45.902797],
-		zoom: 17,
+		center: [13.309132, 45.904760],
+		zoom: 19,
 		speed: 0.3,
 		pitch: 40
 	},
 	'loggia-della-gran-guardia': {
-		bearing: 0,
+		bearing: 170,
 		center: [13.308978, 45.904984],
-		zoom: 17,
-		speed: 0.3,
+		zoom: 18,
+		speed: 0.2,
 		pitch: 40
-	},
-	'finale-palmanova': {
-		bearing: 0,
-		center: [13.316944,45.9],
-		zoom: 12,
-		speed: 0.3,
-		pitch: 0
 	}
 };
 

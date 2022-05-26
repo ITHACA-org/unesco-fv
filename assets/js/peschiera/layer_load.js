@@ -33,7 +33,7 @@ function addLayer() {
 				'#d8b365',
 				'#ccc'
 			],
-			'fill-opacity': 0.2
+			'fill-opacity': 0.05
 		}
 	});
 	// Add a black outline around the polygon.

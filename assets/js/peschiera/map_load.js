@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VlcmN1c2d1byIsImEiOiJjbDFhZmxraGMwd2c2M2xwbTRkeGh3dTE4In0.d8dPbPli4djvVcORKflS4A';
 var map = new mapboxgl.Map({
 	container: 'map', // container ID
-	style: 'mapbox://styles/guercusguo/cl1afebdi004o14phiw01d9uj', // style URL
+	style: 'mapbox://styles/guercusguo/cl1afg1hs003y14o0cvmefqcc', // style URL
 	center: [10.683333,45.433333], // starting position
 	zoom: 12 // starting zoom
 	// pitch: 85,
@@ -45,18 +45,18 @@ var chapters = {
 		pitch: 40
 	},
 	'ponte-dei-voltoni': {
-		bearing: 0,
+		bearing: 270,
 		center: [10.696637,45.438609],
-		zoom: 18,
+		zoom: 19,
 		speed: 0.3,
-		pitch: 40
+		pitch: 70
 	},
 	'porta-brescia': {
-		bearing: 0,
+		bearing: 50,
 		center: [10.692078, 45.438131],
 		zoom: 18,
 		speed: 0.3,
-		pitch: 40
+		pitch: 80
 	}
 };
 

@@ -1,0 +1,182 @@
+#: locale=it
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_FADA4D1E_E190_49F2_41D9_4B00C84A44F7.text = BASTIONE  \
+S. MARCO
+HotspotPanoramaOverlayTextImage_FC837F1A_E1B1_C9F3_41D4_644492028305.text = BASTIONE FELTRIN
+HotspotPanoramaOverlayTextImage_FABA3BF2_E190_C832_41E3_41F0910E2036.text = BASTIONE QUERINI
+HotspotPanoramaOverlayTextImage_CEC6E034_E090_583F_41CE_70B2A3AAE1A3.text = BASTIONE S. MARCO
+HotspotPanoramaOverlayTextImage_FD236CC6_E1B3_C853_41EC_0EE4E9CFEA03.text = BASTIONE TOGNON
+HotspotPanoramaOverlayTextImage_FAF27EAE_E09F_C82A_41C1_21A39B2AF515.text = BELVEDERE SU \
+BASTIONE S. MARCO
+HotspotPanoramaOverlayTextImage_CFC37CFC_E093_C82F_41E1_BB829BE9DA99.text = BELVEDERE SUL \
+BASTIONE \
+ S. MARCO
+HotspotPanoramaOverlayTextImage_CED28215_E090_5BF9_41DD_6CBF952F92C3.text = CANALE DI \
+MEZZO
+HotspotPanoramaOverlayTextImage_CC152D12_E090_49F8_41BB_7E7887FA85CB.text = CANALE DI MEZZO
+HotspotPanoramaOverlayTextImage_FA32CDE7_E190_4852_41E3_57758C499B32.text = COMPLESSO \
+DELLA ROCCA
+HotspotPanoramaOverlayTextImage_F222F24D_E0B3_B865_41EA_AA8D1A9DE980.text = ENTRA A  \
+PESCHIERA DEL GARDA
+HotspotPanoramaOverlayTextImage_FC757186_E190_D8D3_41B9_A30BF44C941D.text = ISOLA DEI TERRAI
+HotspotPanoramaOverlayTextImage_FD146EBA_E1B3_C833_41DA_D1553B1C9288.text = PALAZZO DEL  \
+PROVVEDITORE
+HotspotPanoramaOverlayTextImage_FD822966_E1B0_4853_41DE_9B33AF1B65E4.text = PIAZZA S. MARCO  \
+E  \
+PALAZZO DEL PROVVEDITORE
+HotspotPanoramaOverlayTextImage_FA09D178_E1B0_F83F_41E6_B2F4BD36CEFA.text = PONTE DEI \
+VOLTONI
+HotspotPanoramaOverlayTextImage_F9A5344A_E070_B86E_41EB_ED6E3CEA5095.text = PONTE DEI \
+VOLTONI
+HotspotPanoramaOverlayTextImage_CD523209_E0F0_5BD6_41B0_3CD3366279F3.text = PONTE DEI VOLTONI
+HotspotPanoramaOverlayTextImage_FA7104F0_E1B0_584F_41EC_13AB15A5DDC8.text = PORTA \
+BRESCIA
+HotspotPanoramaOverlayTextImage_F8FC9468_E190_D850_41CF_65FC4AB1DA71.text = PORTA  \
+VERONA
+HotspotPanoramaOverlayTextImage_CF6EB670_E0F0_5836_41D7_A7D10977208A.text = PROSEGUI LUNGO IL CANALE DI MEZZO
+HotspotPanoramaOverlayTextImage_F8E431A1_E0B0_58D8_41D9_1ADF57B5D8C4.text = VAI A \
+PIAZZA \
+S. MARCO
+HotspotPanoramaOverlayTextImage_F68B2610_E093_BBF9_41CD_4B6556BE90AD.text = VAI A \
+PIAZZA \
+S. MARCO
+HotspotPanoramaOverlayTextImage_DE948EDA_F527_AA16_41E1_2234F477CA99.text = VAI A \
+PIAZZA S. MARCO
+HotspotPanoramaOverlayTextImage_F9EBDE8C_E090_48EE_41C6_1D74E36FCC64.text = VAI A \
+PORTA BRESCIA
+HotspotPanoramaOverlayTextImage_F665185D_E090_486B_41E0_F37E730F75CA.text = VAI A \
+PORTA BRESCIA
+HotspotPanoramaOverlayTextImage_F56D2A59_E090_C875_41E0_9E3A11E5D34F.text = VAI A  \
+PORTA VERONA
+HotspotPanoramaOverlayTextImage_F7301AB0_E090_483A_41BD_6E47F581DCAE.text = VAI AL BELVEDERE \
+SUL BASTIONE QUERINI
+HotspotPanoramaOverlayTextImage_F6D8942F_E0F3_D82C_41D2_E802C5F19F62.text = VAI AL BELVEDERE \
+SUL BASTIONE QUERINI
+HotspotPanoramaOverlayTextImage_F7F46F8D_E0B1_C8EB_41E6_CB9198BBF1F0.text = VAI SUL \
+PONTE DEI VOLTONI
+HotspotPanoramaOverlayTextImage_F69D5794_E0F0_D8FE_41E7_D829C32280B5.text = VAI VERSO IL \
+PONTE DEI VOLTONI
+HotspotPanoramaOverlayTextImage_F4DBE688_E090_58D3_41D1_6DCEAA569FE6.text = VAI VERSO IL \
+PONTE DEI VOLTONI
+
+### Tooltip
+HotspotMapOverlayArea_D8058368_FA05_F97D_41CD_3B8BABC2374E.toolTip = Canale di mezzo
+HotspotMapOverlayArea_D8059366_FA05_F975_41E9_ACCF0D29C4D4.toolTip = Piazza S. Marco
+HotspotMapOverlayArea_D805B365_FA05_F977_41EF_3039EA903426.toolTip = Ponte dei Voltoni
+HotspotMapOverlayArea_D805D366_FA05_F975_41C9_4C3EB7FD65B6.toolTip = Porta Brescia
+HotspotMapOverlayArea_D8065364_FA05_F975_41CC_E995E6D1267B.toolTip = Porta Verona
+HotspotMapOverlayArea_D80C7362_FA05_F96D_41D9_54246750B8C8.toolTip = Vista su Bastione Querini
+HotspotMapOverlayArea_D8060364_FA05_F975_41D9_9B52D8AE2C12.toolTip = Vista su Bastione S. Marco
+HotspotMapOverlayArea_D8054367_FA05_F973_41DE_923F8AD8F5CB.toolTip = Vista su Ponte dei Voltoni
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_CF01FFEC_FF6D_08FA_41D0_2BF9D7E3F362.url = media/map_D3F3C808_FA06_16BB_41E9_3E0FA34B9AD1_it_0.png
+imlevel_CF01AFEC_FF6D_08FA_41EF_0BB26863DD55.url = media/map_D3F3C808_FA06_16BB_41E9_3E0FA34B9AD1_it_1.png
+imlevel_CF01BFED_FF6D_08FA_41C3_C65CFD3BE63C.url = media/map_D3F3C808_FA06_16BB_41E9_3E0FA34B9AD1_it_2.png
+imlevel_CF014FED_FF6D_08FA_41E3_82135AE1D161.url = media/map_D3F3C808_FA06_16BB_41E9_3E0FA34B9AD1_it_3.png
+imlevel_D8B667AF_F525_FA0C_41DD_AE8E992B57FF.url = media/panorama_E09BB520_F04C_EEBD_41E9_F852312E9040_HS_1ge1ussr_it.png
+imlevel_E3BC4C88_F04F_FF8D_41D9_3400DD8D9BE8.url = media/panorama_E09BB520_F04C_EEBD_41E9_F852312E9040_HS_56dolvv1_it.png
+imlevel_E18F28F2_F04F_E79C_41E0_4C018C0DAF64.url = media/panorama_E09BB520_F04C_EEBD_41E9_F852312E9040_HS_av5sync8_it.png
+imlevel_E18DD891_F04F_E79F_41E9_07707EF59C4B.url = media/panorama_E09BB520_F04C_EEBD_41E9_F852312E9040_HS_hsvh1at8_it.png
+imlevel_E1FD051C_F04F_EE85_41E6_FD296A6CF005.url = media/panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A_HS_0s1vyj6c_it.png
+imlevel_E18025EF_F04F_E983_41D0_DA0738951FF0.url = media/panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A_HS_1bhali9o_it.png
+imlevel_E1FF8594_F04F_E985_41E6_0B8A72734667.url = media/panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A_HS_7lodos7v_it.png
+imlevel_D8BCA6F6_F525_FA1F_41E5_9BCB553E4DA8.url = media/panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A_HS_i68d2owt_it.png
+imlevel_D8B04786_F525_FAFC_41D3_332388B30A1C.url = media/panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A_HS_xflzcpki_it.png
+imlevel_E18AA835_F04F_E687_41EC_9449994924B3.url = media/panorama_E0A4AB62_F04C_7ABC_41A2_8EE58D9AB87E_HS_5wmyothf_it.png
+imlevel_E187C723_F04F_EA83_41D1_F0EE3D55E22F.url = media/panorama_E0A4AB62_F04C_7ABC_41A2_8EE58D9AB87E_HS_8x5mhypx_it.png
+imlevel_E189A779_F04F_EA8F_41E5_3B68C3EFC989.url = media/panorama_E0A4AB62_F04C_7ABC_41A2_8EE58D9AB87E_HS_m488zypw_it.png
+imlevel_E2C3EDA4_F04F_F985_41DD_4E7B9D366163.url = media/panorama_E0A60976_F04C_6685_41B5_B3535E07A68D_HS_an7oi4wh_it.png
+imlevel_E2C54E8D_F04F_FB84_4166_CA507FB73A45.url = media/panorama_E0A60976_F04C_6685_41B5_B3535E07A68D_HS_frqozxnn_it.png
+imlevel_E2C75EE9_F04F_FB8C_41EA_34AD3420BA59.url = media/panorama_E0A60976_F04C_6685_41B5_B3535E07A68D_HS_owxa76fj_it.png
+imlevel_E2C1DD05_F04F_FE87_41ED_5265B352BBD8.url = media/panorama_E0A60976_F04C_6685_41B5_B3535E07A68D_HS_p41vkdos_it.png
+imlevel_E1EFA17E_F04F_E685_41E4_A868A286EFDF.url = media/panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D_HS_0vcngis1_it.png
+imlevel_E1ECF124_F04F_E685_41E7_DEAFC40D9751.url = media/panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D_HS_2j4rxfej_it.png
+imlevel_E1EE41CB_F04F_E983_41DE_3C83321D6564.url = media/panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D_HS_jbbtfiki_it.png
+imlevel_E1EB80D2_F04F_E79D_41E0_F334622315AA.url = media/panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D_HS_xd1jhoa1_it.png
+imlevel_E1F713C0_F04F_E9FC_41D4_0F1512596A6E.url = media/panorama_E1C271E0_F04C_29BD_41EC_9AAA117B559A_HS_capm642x_it.png
+imlevel_E1F30227_F04F_EA83_41AA_EA39D652A99D.url = media/panorama_E1C271E0_F04C_29BD_41EC_9AAA117B559A_HS_gmiskmoy_it.png
+imlevel_E1F8C42F_F04F_EE84_41CF_C60759BB1A28.url = media/panorama_E1C271E0_F04C_29BD_41EC_9AAA117B559A_HS_hkw4yxuc_it.png
+imlevel_E1F25308_F04F_EA8C_4195_DA15D93BAEAF.url = media/panorama_E1C271E0_F04C_29BD_41EC_9AAA117B559A_HS_k3g2k0wp_it.png
+imlevel_E1779EEB_F04F_DB83_41D5_BC02CF146190.url = media/panorama_E1D6ADC8_F034_598D_41B2_BCE0959E1B59_HS_2hwqn0sz_it.png
+imlevel_E17AF02C_F04F_E684_41E5_391A56A2DBBD.url = media/panorama_E1D6ADC8_F034_598D_41B2_BCE0959E1B59_HS_ek5ec2b9_it.png
+imlevel_E174AE96_F04F_DB85_41CD_9D787AE73760.url = media/panorama_E1D6ADC8_F034_598D_41B2_BCE0959E1B59_HS_mwvco5fy_it.png
+imlevel_E178DF89_F04F_D98F_41D9_6436A8D45269.url = media/panorama_E1D6ADC8_F034_598D_41B2_BCE0959E1B59_HS_vidqzsav_it.png
+imlevel_D368978C_F075_E9AD_41D3_EB90D10F5F66.url = media/panorama_E4D312A4_F054_2B88_41E3_6E9C657EF8D1_HS_kt6z6gch_it.png
+imlevel_D17DA8E8_F075_E795_41C5_A1441E271D92.url = media/panorama_E4D312A4_F054_2B88_41E3_6E9C657EF8D1_HS_m3awjt53_it.png
+imlevel_D170D9B4_F075_F9FD_41ED_BDE61FFFBE4B.url = media/panorama_E4D312A4_F054_2B88_41E3_6E9C657EF8D1_HS_ve2jg7n3_it.png
+imlevel_D8BEF6E1_F525_FA35_41E8_329CE77FFFA9.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_0.jpg
+imlevel_D8BED6E1_F525_FA35_41CE_987E277049AB.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_1.jpg
+imlevel_D8BEC6E1_F525_FA35_41C7_E1C66FBF60CA.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_2.jpg
+imlevel_D8BE36E2_F525_FA37_41E0_CD73733F1F82.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_3.jpg
+imlevel_D8BE26E2_F525_FA37_41E5_E564929D5F3E.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_4.jpg
+imlevel_D8BE16E2_F525_FA37_41DA_75CAD4DF342D.url = media/popup_DC2950CB_F53F_B676_41C9_0D94FD90B8AA_it_0_5.jpg
+imlevel_D8B0F776_F525_FA1F_41B4_E17B714B61AF.url = media/popup_DD672396_F525_9A1E_41E6_2F78A721C772_it_0_0.jpg
+
+### Popup Image
+
+### Title
+panorama_E0A4AB62_F04C_7ABC_41A2_8EE58D9AB87E.label = Belvedere su bastione
+panorama_E0A2FCA3_F04C_5F83_41D5_04E55F83898A.label = P. Voltoni su Complesso della rocca
+panorama_E09BB520_F04C_EEBD_41E9_F852312E9040.label = Piazza S.Marco
+panorama_E0A60976_F04C_6685_41B5_B3535E07A68D.label = Porta Brescia
+panorama_E4D312A4_F054_2B88_41E3_6E9C657EF8D1.label = Porta Verona vista 1
+panorama_E1C271E0_F04C_29BD_41EC_9AAA117B559A.label = Vista dietro P.Voltoni
+map_D3F3C808_FA06_16BB_41E9_3E0FA34B9AD1.label = mappa Peschieramod
+panorama_E1D6ADC8_F034_598D_41B2_BCE0959E1B59.label = ponte dei voltoni vista 1
+panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D.label = ponte dei voltoni vista 2
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = MAPPA
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_it.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_it.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_it.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_it.png
+Image_CC7816D3_E090_587B_41CF_AB35914FA007.url = skin/Image_CC7816D3_E090_587B_41CF_AB35914FA007_it.jpg
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = PESCHIERA DEL GARDA
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.14vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1a3639;font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.76vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1a3639;font-size:6.67vmin;font-family:'Bebas Neue Bold';">Peschiera del garda</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Navigando virtualmente per le vie di Peschiera del Garda è possibile notare la sua natura di fortificazione d'acqua dolce.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Da Porta Verona, fiancheggiando il Bastione San Marco, si entra in città arrivando al canale di mezzo sul quale si erge il Ponte dei Voltoni.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Da lì si può raggiungere da un lato il ponte e dall'altro, seguendo il corso d'acqua, il Belvedere sul Bastione Querini.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Nel centro città, in Piazza San Marco, si erge il Palazzo del Provveditore; mentre in piazza Ferdinando di Savoia possiamo ammirare il Complesso della Rocca (attualmente in ristrutturazione), attiguo al Bastione Cantarane.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Dall'altra via d'accesso in città, Porta Brescia, è possibile scorgere altri due dei cinque bastioni: Feltrin e Tognon.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Si può nuovamente scorgere il Bastione San Marco dal belvedere alle spalle del Ponte dei Voltoni, da cui si ha una piacevole vista anche sull'Isola dei Terrai.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Open Sans';">Lungo tutte queste vie non ci si allontana mai dalle acque del Lago di Garda, prima fortificazione naturale per la città.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Virtual Tour di Peschiera del Garda

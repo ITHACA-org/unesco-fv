@@ -43,7 +43,7 @@ function addLayer() {
 				'#ccc'
 			],
 			//'fill-color': '#0080ff', // blue color fill
-			'fill-opacity': 0.2
+			'fill-opacity': 0.05
 		}
 	});
 	// Add a black outline around the polygon.
