@@ -55,7 +55,7 @@ function addLayer() {
 				'#d8b365',
 				'#ccc'
 			],
-			'line-width': 3
+			'line-width': 4
 		}
 	});
 	map.addLayer({

@@ -109,16 +109,16 @@ HotspotPanoramaOverlayTextImage_CA2636BC_F76D_FA11_41D3_53C61E031D56.text = VAI 
 PORTA UDINE
 
 ### Tooltip
-HotspotMapOverlayArea_C37F118A_F75D_96F7_41E1_237190F1BECF.toolTip = Piazza 
-HotspotMapOverlayArea_CF726B4A_F75F_6A76_41BD_051AEE8C345B.toolTip = Piazza 
-HotspotMapOverlayArea_C3077F82_F75D_AAF6_41EB_493C9CA19922.toolTip = Piazza 
+HotspotMapOverlayArea_C37F118A_F75D_96F7_41E1_237190F1BECF.toolTip = Piazza
+HotspotMapOverlayArea_CF726B4A_F75F_6A76_41BD_051AEE8C345B.toolTip = Piazza
+HotspotMapOverlayArea_C3077F82_F75D_AAF6_41EB_493C9CA19922.toolTip = Piazza
 HotspotMapOverlayArea_C5975D52_F764_EE11_41C5_2EF4FC412A0C.toolTip = Piazza Grande
 HotspotMapOverlayArea_C02B3E5A_F75C_EA16_41E3_291D43205170.toolTip = Piazza su Porta Aquileia
 HotspotMapOverlayArea_C31EDFCB_F75B_AA77_41E9_2CC5ED075858.toolTip = Piazza su Porta Cividale
 HotspotMapOverlayArea_C5D26757_F765_9A1E_41EC_0528ADCED51D.toolTip = Piazza su Porta Udine
 HotspotMapOverlayArea_C260195B_F76C_B617_41D7_A101F472EA2F.toolTip = Porta Aquileia
 HotspotMapOverlayArea_C5ECFFD2_F76B_AA11_41DC_0F5D912962B5.toolTip = Porta Cividale
-HotspotMapOverlayArea_EF3B32A3_F04C_2B98_41DC_5C43E46D6481.toolTip = Porta Udine 
+HotspotMapOverlayArea_EF3B32A3_F04C_2B98_41DC_5C43E46D6481.toolTip = Porta Udine
 
 ## Media
 
@@ -222,7 +222,7 @@ panorama_C55EE2ED_F767_7A30_41C3_FF47FC8F8794.label = Porta Aquileia
 panorama_CC864E6D_F765_6A33_41EE_1074E34B9C3D.label = Porta Cividale
 panorama_C5350268_F764_9A30_41D0_A326C9F385BE.label = Porta Cividale vista 2
 panorama_C4C129FF_F76F_7610_41BC_199E34303C94.label = Porta Udine
-map_CE5B62E8_F765_BA31_41E0_B35A541F59D8.label = mappa 
+map_CE5B62E8_F765_BA31_41E0_B35A541F59D8.label = mappa
 map_CE13B680_F764_9AF2_41EB_83D62CE47DC2.label = mappapiazza
 video_CC235FC8_FF2D_0938_41A5_4900EFDCE072.label = video_F5A6CD74_FA0A_2EF7_41E7_BDD57F0708D7_it
 
@@ -233,15 +233,10 @@ videolevel_C83B5FCE_FF37_093B_41E5_D230E4F82337.posterURL = media/video_CC235FC8
 ## Skin
 
 ### Button
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = MAPPA
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
-Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = MAPPA
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
-Button_EA1BF1FB_FA0E_3705_41D3_B1A0E5AC8626.label = VIDEO
 Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
 Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
 
@@ -253,9 +248,8 @@ Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4
 Image_CC7816D3_E090_587B_41CF_AB35914FA007.url = skin/Image_CC7816D3_E090_587B_41CF_AB35914FA007_it.jpg
 
 ### Label
-Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = PALMANOVA
 Label_0DD14F09_1744_0507_41AA_D8475423214A.text = PALMANOVA
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
 
 ### Multiline Text
 HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>

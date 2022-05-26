@@ -141,16 +141,11 @@ panorama_E175C66C_F034_2A85_41DE_1A2C78040C1D.label = ponte dei voltoni vista 2
 ## Skin
 
 ### Button
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = MAPPA
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = MAPPA
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
-Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
-Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
 
 ### Image
 Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_it.jpg
@@ -160,9 +155,8 @@ Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4
 Image_CC7816D3_E090_587B_41CF_AB35914FA007.url = skin/Image_CC7816D3_E090_587B_41CF_AB35914FA007_it.jpg
 
 ### Label
-Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = PESCHIERA DEL GARDA
 Label_0DD14F09_1744_0507_41AA_D8475423214A.text = PESCHIERA DEL GARDA
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
 
 ### Multiline Text
 HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
