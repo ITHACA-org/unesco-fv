@@ -69,7 +69,7 @@ function addLayer() {
 				'match',
 				['get', 'zona'],
 				'buffer',
-				2,
+				4,
 				'core',
 				6,
 				2
