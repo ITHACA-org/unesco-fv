@@ -58,9 +58,3 @@
    font-weight: bold;
    font-style: normal;
 }
-@font-face {
-   font-family: "Bebas Neue Book";
-   src: url("fonts/BebasNeueBook.woff") format("woff"), url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
-}
