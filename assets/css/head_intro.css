@@ -23,3 +23,16 @@ footer {background-color: #1a3639; padding: 80px 0;}
 .card-header {color: #FFF; background-color: #AE1065;}
 .flex-equal > * {flex: 1;}
 @media (min-width: 768px) {.flex-md-equal > * {flex: 1;}}
+#main-text {padding-left: 10vw; padding-right: 10vw}
+#intro-one {color: #FFF; background-color: #e41a1c; border-color: #e41a1c;}
+#intro-two {color: #FFF; background-color: #377eb8; border-color: #377eb8;}
+#intro-three {color: #FFF; background-color: #4daf4a; border-color: #4daf4a;}
+#intro-four {color: #FFF; background-color: #984ea3; border-color: #984ea3;}
+#intro-five {color: #FFF; background-color: #ff7f00; border-color: #ff7f00;}
+#intro-six {color: #FFF; background-color: #f781bf; border-color: #f781bf;}
+#card-one{ border-color: #e41a1c; border-width: 0.3rem}
+#card-two{ border-color: #377eb8; border-width: 0.3rem}
+#card-three{ border-color: #4daf4a; border-width: 0.3rem}
+#card-four{ border-color: #984ea3; border-width: 0.3rem}
+#card-five{ border-color: #ff7f00; border-width: 0.3rem}
+#card-six{ border-color: #f781bf; border-width: 0.3rem}
