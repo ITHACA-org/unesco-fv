@@ -1,0 +1,31 @@
+body { font-family: 'Open Sans', sans-serif; color: #757575}
+h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif;}
+a {color: #ae1065; text-decoration: none}
+.bg-light { background-color: #fff!important;}
+.text-dark {color: #757575!important}
+header nav a {font-weight:600}
+.footer-credits{color: #999999}
+.footer-credits a {color: #fff}
+.footer-credits a:hover {color: #099f93}
+footer {background-color: #1a3639; padding: 80px 0;}
+.footer-links {font-size: small;}
+.bg-jumbotron h1, .bg-jumbotron p {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+.card-header {color: #FFF; background-color: #01665e;}
+.intro-card{border-color: #01665e; border-width: 0.3rem;}
+.main-text {padding-left: 10vw; padding-right: 10vw}
+#headingOne {color: #FFF; background-color: #8c510a; border-color: #8c510a;}
+#headingTwo {color: #000; background-color: #d8b365; border-color: #d8b365;}
+#headingThree {color: #000; background-color: #f6e8c3; border-color: #f6e8c3;}
+#headingFour {color: #000; background-color: #c7eae5; border-color: #c7eae5;}
+#headingFive {color: #FFF; background-color: #5ab4ac; border-color: #5ab4ac;}
+#headingSix {color: #FFF; background-color: #01665e; border-color: #01665e;}
+#card-one{ border-color: #8c510a; border-width: 0.3rem;}
+#card-two{ border-color: #d8b365; border-width: 0.3rem}
+#card-three{ border-color: #f6e8c3; border-width: 0.3rem}
+#card-four{ border-color: #c7eae5; border-width: 0.3rem}
+#card-five{ border-color: #5ab4ac; border-width: 0.3rem}
+#card-six{ border-color: #01665e; border-width: 0.3rem}
+.accordion-button.collapsed {color: inherit; background-color: inherit; border-color: #AE1065; border-radius: inherit;}
+.accordion-button:not(.collapsed) {color: inherit; background-color: inherit; border-color: inherit; border-radius: inherit;}
+.paesaggi_intro {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("/assets/img/paesaggi_intro/paesagg_banner.jpg"); background-size: cover; background-repeat: no-repeat;}
+@media (min-width: 768px) {.flex-md-equal > * {flex: 1;}}
